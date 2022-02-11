@@ -1,0 +1,24 @@
+[
+  {
+    "condition": "minecraft:entity_scores",
+    "entity": "this",
+    "scores": {
+      "potatopack.entity.rotation.x": {
+        "min": 45,
+        "max": 90
+      }
+    }
+  },
+  {
+    "condition": "minecraft:value_check",
+    "value": {
+      "type": "minecraft:score",
+      "target": {
+        "type": "minecraft:fixed",
+        "name": "seeMapCoords"
+      },
+      "score": "potatopack.config"
+    },
+    "range": 1
+  }
+]

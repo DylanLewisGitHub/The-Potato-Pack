@@ -1,0 +1,1 @@
+data merge entity @s[tag=!potatopack.entity.armor_stand.hide_arms] {ShowArms:1b}

@@ -1,0 +1,67 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:armor_stand",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.warning.piglin_chief_banner",
+                  "color": "red",
+                  "italic": false
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.warning.piglin_chief_banner_1",
+                  "color": "red",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "pack.potatopack",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:technical/config/see_pack_name"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "translate": "block.potatopack.piglin_chief_banner",
+                "color": "white",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840003,potatopack:{id:\"piglin_chief_banner\"},EntityTag:{Pose:{Head:[0.0f,0.0f,0.0f],Body:[0.0f,0.0f,0.0f]},DisabledSlots:4144959,Invisible:1b,NoGravity:1b,Tags:[\"potatopack.block.piglin_chief_banner.place\",\"potatopack.entity\",\"smithed.entity\"],ArmorItems:[{},{},{},{id:\"minecraft:egg\",Count:1b,tag:{CustomModelData:840002}}]}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

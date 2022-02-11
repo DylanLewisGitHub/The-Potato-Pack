@@ -1,0 +1,45 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "pack.potatopack",
+                  "color": "aqua",
+                  "italic": true
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+				  "name": "potatopack:technical/config/see_pack_name"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "translate": "item.potatopack.headwear.red_santa_hat",
+                "color": "white",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:38,AttributeModifiers:[],CustomModelData:840012,potatopack:{id:\"headwear\",headwear:\"red_santa_hat\"}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

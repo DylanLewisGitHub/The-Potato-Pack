@@ -1,0 +1,47 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:inverted",
+      "term": {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": {
+          "potatopack.position.x_stored": {
+            "min": {
+              "type": "minecraft:score",
+              "target": "this",
+              "score": "potatopack.position.x"
+            },
+            "max": {
+              "type": "minecraft:score",
+              "target": "this",
+              "score": "potatopack.position.x"
+            }
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:inverted",
+      "term": {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": {
+          "potatopack.position.z_stored": {
+            "min": {
+              "type": "minecraft:score",
+              "target": "this",
+              "score": "potatopack.position.z"
+            },
+            "max": {
+              "type": "minecraft:score",
+              "target": "this",
+              "score": "potatopack.position.z"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

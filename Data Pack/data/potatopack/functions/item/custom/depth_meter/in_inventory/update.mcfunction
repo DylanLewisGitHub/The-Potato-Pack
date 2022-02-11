@@ -1,0 +1,3 @@
+execute if score toggleDepthMeter potatopack.config matches 0 as @s[predicate=potatopack:technical/location_check/distance_from_sea_level/several_blocks_from_sea_level/any] run function potatopack:technical/location_check/blocks_from_sea_level
+
+function potatopack:item/custom/depth_meter/in_inventory/modify
