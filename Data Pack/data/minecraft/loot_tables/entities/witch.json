@@ -11,6 +11,24 @@
       ],
       "conditions": [
         {
+          "condition": "minecraft:entity_properties",
+          "entity": "killer",
+          "predicate": {
+            "nbt": "{powered:1b}"
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "potatopack:items/headwear/witch_hat"
+        }
+      ],
+      "conditions": [
+        {
           "condition": "minecraft:killed_by_player"
         },
         {

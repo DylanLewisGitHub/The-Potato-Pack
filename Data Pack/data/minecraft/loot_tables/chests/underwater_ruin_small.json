@@ -80,7 +80,7 @@
         {
           "type": "minecraft:loot_table",
           "weight": 5,
-          "name": "potatopack:items/maps/located_structure/monument"
+          "name": "potatopack:items/locator_map/monument"
         }
       ]
     }

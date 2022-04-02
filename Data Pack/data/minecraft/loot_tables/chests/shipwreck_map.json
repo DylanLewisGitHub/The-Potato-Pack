@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "potatopack:items/maps/from_shipwreck"
+          "name": "potatopack:locator_maps/from_shipwreck"
         }
       ]
     },

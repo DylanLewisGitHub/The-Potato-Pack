@@ -17,7 +17,7 @@
                   "with": [
                     {
                       "translate": "pack.potatopack",
-                      "color": "aqua",
+                      "color": "gold",
                       "italic": true
                     },
                     {
@@ -46,7 +46,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:38,AttributeModifiers:[],CustomModelData:840011,potatopack:{id:\"headwear\",headwear:\"paleontologist_hat\"}}"
+              "tag": "{HideFlags:38,AttributeModifiers:[],CustomModelData:840014,potatopack:{id:\"headwear\",headwear:\"paleontologist_hat\"}}"
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
     "values": [
 		"abcl:load",
-        "potatopack:technical/load"
+        "potatopack:technical/load/start"
     ]
 }

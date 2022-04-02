@@ -1,0 +1,15 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "#potatopack:can_wear_headwear",
+    "equipment": {
+      "head": {
+        "items": [
+          "minecraft:leather_helmet"
+        ],
+        "nbt": "{potatopack:{id:\"headwear\"}}"
+      }
+    }
+  }
+}

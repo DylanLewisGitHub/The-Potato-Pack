@@ -1,0 +1,19 @@
+[
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "nbt": "{Item:{tag:{potatopack:{id:\"slime_bucket\"}}}}"
+    }
+  },
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "nbt": "{Tags:[\"potatopack.entity.item_frame.updated_slime_bucket\"]}"
+      }
+    }
+  }
+]

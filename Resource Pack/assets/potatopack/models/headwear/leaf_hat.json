@@ -1,5 +1,5 @@
 {
-	"parent": "potatopack:headwear/overlay_only_template",
+	"parent": "potatopack:headwear/template/overlay_only",
   "textures": {
     "0": "minecraft:entity/villager/type/swamp"
   },

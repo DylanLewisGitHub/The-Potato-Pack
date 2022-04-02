@@ -6,105 +6,135 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 840000
-      },
-      "model": "potatopack:headwear/book_hat"
-    },
-    {
-      "predicate": {
         "custom_model_data": 840001
       },
-      "model": "potatopack:headwear/desert_cap"
+      "model": "potatopack:headwear/arch_illager_crown"
     },
     {
       "predicate": {
         "custom_model_data": 840002
       },
-      "model": "potatopack:headwear/enchanter_turban"
+      "model": "potatopack:headwear/blue_santa_hat"
     },
     {
       "predicate": {
         "custom_model_data": 840003
       },
-      "model": "potatopack:headwear/eye_patch"
+      "model": "potatopack:headwear/book_hat"
     },
     {
       "predicate": {
         "custom_model_data": 840004
       },
-      "model": "potatopack:headwear/fishing_hat"
+      "model": "potatopack:headwear/butcher_headband"
     },
     {
       "predicate": {
         "custom_model_data": 840005
       },
-      "model": "potatopack:headwear/fletcher_cap"
+      "model": "potatopack:headwear/desert_cap"
     },
     {
       "predicate": {
         "custom_model_data": 840006
       },
-      "model": "potatopack:headwear/leaf_hat"
+      "model": "potatopack:headwear/enchanter_turban"
     },
     {
       "predicate": {
         "custom_model_data": 840007
       },
-      "model": "potatopack:headwear/monocle"
+      "model": "potatopack:headwear/eye_patch"
     },
     {
       "predicate": {
         "custom_model_data": 840008
       },
-      "model": "potatopack:headwear/paleontologist_hat"
+      "model": "potatopack:headwear/fishing_hat"
     },
     {
       "predicate": {
         "custom_model_data": 840009
       },
-      "model": "potatopack:headwear/ribbon"
+      "model": "potatopack:headwear/fletcher_cap"
     },
     {
       "predicate": {
         "custom_model_data": 840010
       },
-      "model": "potatopack:headwear/shepherd_cap"
+      "model": "potatopack:headwear/frozen_crown"
     },
     {
       "predicate": {
         "custom_model_data": 840011
       },
-      "model": "potatopack:headwear/straw_hat"
+      "model": "potatopack:headwear/jeweler_hat"
     },
     {
       "predicate": {
         "custom_model_data": 840012
       },
-      "model": "potatopack:headwear/visor"
+      "model": "potatopack:headwear/leaf_hat"
     },
     {
       "predicate": {
         "custom_model_data": 840013
       },
-      "model": "potatopack:headwear/winter_hat"
+      "model": "potatopack:headwear/monocle"
     },
     {
       "predicate": {
         "custom_model_data": 840014
       },
-      "model": "potatopack:headwear/witch_hat"
+      "model": "potatopack:headwear/paleontologist_hat"
     },
     {
       "predicate": {
         "custom_model_data": 840015
       },
-      "model": "potatopack:headwear/wreath"
+      "model": "potatopack:headwear/red_santa_hat"
     },
     {
       "predicate": {
         "custom_model_data": 840016
       },
+      "model": "potatopack:headwear/shepherd_cap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 840017
+      },
+      "model": "potatopack:headwear/straw_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 840018
+      },
+      "model": "potatopack:headwear/visor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 840019
+      },
       "model": "potatopack:headwear/wildfire_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 840020
+      },
+      "model": "potatopack:headwear/winter_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 840021
+      },
+      "model": "potatopack:headwear/witch_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 840022
+      },
+      "model": "potatopack:headwear/wreath"
     }
   ]
 }

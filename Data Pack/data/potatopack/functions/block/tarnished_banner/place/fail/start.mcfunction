@@ -1,0 +1,2 @@
+execute if predicate potatopack:entity/player/gamemode/survival run loot spawn ~ ~ ~ loot potatopack:items/tarnished_banner
+execute if predicate potatopack:technical/config/see_warnings run function potatopack:block/tarnished_banner/place/fail/actionbar_text

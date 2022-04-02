@@ -31,6 +31,6 @@
     }
   },
   "rewards": {
-    "function": "potatopack:item/custom/headwear/equip"
+    "function": "potatopack:item/headwear/equip"
   }
 }

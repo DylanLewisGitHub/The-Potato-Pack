@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "potatopack:entities/zombie/with_bee_nest/start"
+          "name": "potatopack:entities/zombie/in_bee_nest/start"
         }
       ],
       "conditions": [

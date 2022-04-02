@@ -1,5 +1,5 @@
 {
-	"parent": "potatopack:headwear/template",
+	"parent": "potatopack:headwear/template/generic",
   "textures": {
     "0": "minecraft:entity/villager/profession/librarian"
   },

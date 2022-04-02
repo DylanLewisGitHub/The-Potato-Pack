@@ -5,7 +5,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:debug_stick",
+          "name": "minecraft:command_block",
           "functions": [
             {
               "function": "minecraft:set_name",
@@ -18,41 +18,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:840000,potatopack:{id:\"piglin_arm_guard\"},AttributeModifiers:[{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:20,Operation:0,UUID:[I;935625346,-1780072308,-1180712347,1083260616],Slot:\"offhand\"}]}"
-            },
-            {
-              "function": "minecraft:set_lore",
-              "entity": "this",
-              "lore": [
-                {
-                  "translate": "potatopack.warning.piglin_arm_guard",
-                  "color": "red",
-                  "italic": false
-                }
-              ],
-              "conditions": [
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:entity/vanilla/player/creative_mode"
-                }
-              ]
-            },
-            {
-              "function": "minecraft:set_lore",
-              "entity": "this",
-              "lore": [
-                {
-                  "translate": "potatopack.warning.piglin_arm_guard_1",
-                  "color": "red",
-                  "italic": false
-                }
-              ],
-              "conditions": [
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:entity/vanilla/player/creative_mode"
-                }
-              ]
+              "tag": "{CustomModelData:840009,potatopack:{id:\"piglin_arm_guard\",Durability:45b},AttributeModifiers:[{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:20,Operation:0,UUID:[I;935625346,-1780072308,-1180712347,1083260616],Slot:\"offhand\"}]}"
             },
             {
               "function": "minecraft:set_lore",
@@ -60,8 +26,7 @@
               "lore": [
                 {
                   "translate": "pack.potatopack",
-                  "color": "aqua",
-                  "italic": true
+                  "color": "gold"
                 }
               ],
               "conditions": [

@@ -16,7 +16,7 @@
                   "with": [
                     {
                       "translate": "pack.potatopack",
-                      "color": "aqua",
+                      "color": "gold",
                       "italic": true
                     },
                     {
@@ -47,7 +47,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:38,AttributeModifiers:[],CustomModelData:840004,potatopack:{id:\"headwear\",headwear:\"headwear\"}}"
+              "tag": "{HideFlags:38,AttributeModifiers:[],CustomModelData:840006,potatopack:{id:\"headwear\",headwear:\"headwear\"}}"
             }
           ]
         }

@@ -9,7 +9,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/type/desert"
+              "name": "potatopack:entity_group/villager_data/type/desert"
             }
           ]
         },
@@ -19,7 +19,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/type/swamp"
+              "name": "potatopack:entity_group/villager_data/type/swamp"
             }
           ]
         },
@@ -29,7 +29,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/type/snow"
+              "name": "potatopack:entity_group/villager_data/type/snow"
             }
           ]
         },
@@ -39,7 +39,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/type/savanna"
+              "name": "potatopack:entity_group/villager_data/type/savanna"
             }
           ]
         }

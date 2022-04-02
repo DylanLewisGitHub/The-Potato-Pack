@@ -1,0 +1,15 @@
+[
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:reference",
+        "name": "potatopack:item/depth_meter/modify_visual/lava/overworld"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "potatopack:technical/location_check/dimension/the_nether"
+      }
+    ]
+  }
+]

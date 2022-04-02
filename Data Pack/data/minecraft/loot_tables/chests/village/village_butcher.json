@@ -12,7 +12,7 @@
         {
           "type": "minecraft:loot_table",
           "weight": 3,
-          "name": "potatopack:items/headwear/ribbon"
+          "name": "potatopack:items/headwear/butcher_headband"
         }
       ],
       "conditions": [

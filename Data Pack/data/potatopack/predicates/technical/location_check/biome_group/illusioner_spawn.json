@@ -1,0 +1,53 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/grove"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/snowy_slopes"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/jagged_peaks"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/frozen_peaks"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/windswept_hills"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/windswept_forest"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/windswept_gravelly_hills"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/snowy_plains"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/ice_spikes"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/snowy_taiga"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/snowy_beach"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/frozen_ocean"
+    }
+  ]
+}

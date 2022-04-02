@@ -6,10 +6,6 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "potatopack:chests/desert_pyramid/building_blocks"
-        },
-        {
-          "type": "minecraft:loot_table",
           "name": "potatopack:chests/desert_pyramid/enchanting"
         },
         {

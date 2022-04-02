@@ -1,0 +1,13 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/position_from_sea_level/block_above/overworld"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/position_from_sea_level/block_above/the_nether"
+    }
+  ]
+}

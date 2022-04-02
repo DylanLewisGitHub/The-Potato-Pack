@@ -9,7 +9,17 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/profession/librarian"
+              "name": "potatopack:entity_group/villager_data/profession/librarian"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "potatopack:items/headwear/butcher_headband",
+          "conditions": [
+            {
+              "condition": "minecraft:reference",
+              "name": "potatopack:entity_group/villager_data/profession/butcher"
             }
           ]
         },
@@ -19,7 +29,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/profession/weaponsmith"
+              "name": "potatopack:entity_group/villager_data/profession/weaponsmith"
             }
           ]
         },
@@ -29,7 +39,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/profession/fisherman"
+              "name": "potatopack:entity_group/villager_data/profession/fisherman"
             }
           ]
         },
@@ -39,7 +49,17 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/profession/fletcher"
+              "name": "potatopack:entity_group/villager_data/profession/fletcher"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "potatopack:items/headwear/jeweler_hat",
+          "conditions": [
+            {
+              "condition": "minecraft:reference",
+              "name": "potatopack:entity_group/villager_data/profession/jeweler"
             }
           ]
         },
@@ -49,7 +69,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/profession/cartographer"
+              "name": "potatopack:entity_group/villager_data/profession/cartographer"
             }
           ]
         },
@@ -59,17 +79,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/profession/paleontologist"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:loot_table",
-          "name": "potatopack:items/headwear/ribbon",
-          "conditions": [
-            {
-              "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/profession/butcher"
+              "name": "potatopack:entity_group/villager_data/profession/paleontologist"
             }
           ]
         },
@@ -79,7 +89,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/profession/shepherd"
+              "name": "potatopack:entity_group/villager_data/profession/shepherd"
             }
           ]
         },
@@ -89,7 +99,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/profession/farmer"
+              "name": "potatopack:entity_group/villager_data/profession/farmer"
             }
           ]
         },
@@ -99,7 +109,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/profession/armorer"
+              "name": "potatopack:entity_group/villager_data/profession/armorer"
             }
           ]
         },
@@ -109,7 +119,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/profession/leatherworker"
+              "name": "potatopack:entity_group/villager_data/profession/leatherworker"
             }
           ]
         }

@@ -1,0 +1,2 @@
+summon marker ~ ~ ~ {Tags:["potatopack.entity.chunk_marker"],CustomName:'{"translate":"entity.potatopack.chunk_marker"}'}
+execute as @e[tag=potatopack.entity.chunk_marker,limit=1,sort=nearest] run function potatopack:entity/chunk_marker/align

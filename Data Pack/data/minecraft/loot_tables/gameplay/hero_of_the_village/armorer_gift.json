@@ -11,7 +11,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager/can_offer_biome_headwear"
+              "name": "potatopack:entity/villager/offer_biome_headwear"
             }
           ]
         },
@@ -22,7 +22,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/level/5"
+              "name": "potatopack:entity_group/villager_data/level/5"
             }
           ]
         }

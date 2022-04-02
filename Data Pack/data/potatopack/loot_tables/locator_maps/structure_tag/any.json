@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "potatopack:items/locator_map/structure_tag/ocean"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "potatopack:items/locator_map/structure_tag/settlement"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "potatopack:items/locator_map/structure_tag/generic"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "potatopack:items/locator_map/structure_tag/surface"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "potatopack:items/locator_map/structure_tag/old"
+        }
+      ]
+    }
+  ]
+}

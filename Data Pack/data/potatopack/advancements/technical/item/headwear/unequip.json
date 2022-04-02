@@ -15,6 +15,6 @@
     }
   },
   "rewards": {
-    "function": "potatopack:item/custom/headwear/unequip/start"
+    "function": "potatopack:item/headwear/unequip/start"
   }
 }

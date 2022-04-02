@@ -1,23 +1,23 @@
 [
   {
     "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:840005}",
+    "tag": "{CustomModelData:840004}",
     "conditions": [
       {
         "condition": "minecraft:reference",
-        "name": "potatopack:technical/location_check/slime_chunk"
+        "name": "potatopack:entity/in_slime_chunk"
       }
     ]
   },
   {
     "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:840004}",
+    "tag": "{CustomModelData:840003}",
     "conditions": [
       {
         "condition": "minecraft:inverted",
         "term": {
           "condition": "minecraft:reference",
-          "name": "potatopack:technical/location_check/slime_chunk"
+          "name": "potatopack:entity/in_slime_chunk"
         }
       }
     ]
@@ -36,7 +36,7 @@
     "conditions": [
       {
         "condition": "minecraft:reference",
-        "name": "potatopack:technical/location_check/slime_chunk"
+        "name": "potatopack:entity/in_slime_chunk"
       }
     ]
   },
@@ -56,7 +56,7 @@
         "condition": "minecraft:inverted",
         "term": {
           "condition": "minecraft:reference",
-          "name": "potatopack:technical/location_check/slime_chunk"
+          "name": "potatopack:entity/in_slime_chunk"
         }
       }
     ]
@@ -66,7 +66,22 @@
     "entity": "this",
     "lore": [
       {
-        "translate": "potatopack.warning.slime_bucket",
+        "translate": "potatopack.warning",
+        "with": [
+          {
+            "translate": "item.potatopack.slime_bucket.warning",
+            "with": [
+              {
+                "translate": "potatopack.slime_chunk_calculator",
+                "color": "green",
+                "italic": false,
+                "underlined": true
+              }
+            ],
+            "color": "red",
+            "italic": false
+          }
+        ],
         "color": "red",
         "italic": false
       }
@@ -74,7 +89,7 @@
     "conditions": [
       {
         "condition": "minecraft:reference",
-        "name": "potatopack:entity/vanilla/player/creative_mode"
+        "name": "potatopack:technical/config/see_warnings"
       }
     ]
   },
@@ -83,7 +98,7 @@
     "entity": "this",
     "lore": [
       {
-        "translate": "potatopack.warning.slime_bucket_1",
+        "translate": "item.potatopack.slime_bucket.warning1",
         "color": "red",
         "italic": false
       }
@@ -91,24 +106,7 @@
     "conditions": [
       {
         "condition": "minecraft:reference",
-        "name": "potatopack:entity/vanilla/player/creative_mode"
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_lore",
-    "entity": "this",
-    "lore": [
-      {
-        "translate": "potatopack.warning.slime_bucket_2",
-        "color": "red",
-        "italic": false
-      }
-    ],
-    "conditions": [
-      {
-        "condition": "minecraft:reference",
-        "name": "potatopack:entity/vanilla/player/creative_mode"
+        "name": "potatopack:technical/config/see_warnings"
       }
     ]
   },
@@ -118,11 +116,9 @@
     "lore": [
       {
         "translate": "pack.potatopack",
-        "color": "aqua",
-        "italic": true
+        "color": "gold"
       }
     ],
-    "replace": false,
     "conditions": [
       {
         "condition": "minecraft:reference",

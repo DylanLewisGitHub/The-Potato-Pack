@@ -13,7 +13,7 @@
               "lore": [
                 {
                   "translate": "pack.potatopack",
-                  "color": "aqua",
+                  "color": "gold",
                   "italic": true
                 }
               ],
@@ -35,7 +35,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{HideFlags:38,AttributeModifiers:[],CustomModelData:840003,potatopack:{id:\"headwear\",headwear:\"desert_cap\"}}"
+              "tag": "{HideFlags:38,AttributeModifiers:[],CustomModelData:840005,potatopack:{id:\"headwear\",headwear:\"desert_cap\"}}"
             }
           ]
         }

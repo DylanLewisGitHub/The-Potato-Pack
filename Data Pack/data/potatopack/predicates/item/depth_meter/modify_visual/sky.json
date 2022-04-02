@@ -1,0 +1,20 @@
+[
+  {
+    "condition": "minecraft:value_check",
+    "value": {
+      "type": "minecraft:score",
+      "target": {
+        "type": "minecraft:fixed",
+        "name": "posY"
+      },
+      "score": "potatopack.math"
+    },
+    "range": {
+      "min": 193
+    }
+  },
+  {
+    "condition": "minecraft:reference",
+    "name": "potatopack:technical/location_check/dimension/overworld"
+  }
+]

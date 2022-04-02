@@ -1,0 +1,6 @@
+{
+	"parent": "potatopack:headwear/template/generic",
+  "textures": {
+    "0": "tcc:entity/jeweler/normal"
+  }
+}

@@ -1,2 +1,2 @@
-execute store result score @s potatopack.position.x run data get entity @s Pos[0]
-execute store result score @s potatopack.position.z run data get entity @s Pos[2]
+execute store result score posX potatopack.math run data get entity @s Pos[0]
+execute store result score posZ potatopack.math run data get entity @s Pos[2]

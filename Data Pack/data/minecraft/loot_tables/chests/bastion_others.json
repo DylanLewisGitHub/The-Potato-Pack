@@ -116,7 +116,7 @@
         {
           "type": "minecraft:loot_table",
           "weight": 1,
-          "name": "potatopack:items/piglin_chief_banner"
+          "name": "potatopack:items/tarnished_banner"
         },
         {
           "type": "minecraft:item",

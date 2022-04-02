@@ -11,7 +11,7 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager/can_offer_biome_headwear"
+              "name": "potatopack:entity/villager/offer_biome_headwear"
             }
           ]
         },
@@ -22,14 +22,26 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/level/5"
+              "name": "potatopack:entity_group/villager_data/level/5"
             },
             {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "nbt": "{Tags:[\"dnd.paleontologist\"]}"
-              }
+              "condition": "minecraft:reference",
+              "name": "potatopack:entity_group/villager_data/profession/paleontologist"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 3,
+          "name": "potatopack:items/headwear/jeweler_hat",
+          "conditions": [
+            {
+              "condition": "minecraft:reference",
+              "name": "potatopack:entity_group/villager_data/level/5"
+            },
+            {
+              "condition": "minecraft:reference",
+              "name": "potatopack:entity_group/villager_data/profession/jeweler"
             }
           ]
         },
@@ -40,17 +52,11 @@
           "conditions": [
             {
               "condition": "minecraft:reference",
-              "name": "potatopack:entity/vanilla/villager_data/level/5"
+              "name": "potatopack:entity_group/villager_data/level/5"
             },
             {
-              "condition": "minecraft:inverted",
-              "term": {
-                "condition": "minecraft:entity_properties",
-                "entity": "this",
-                "predicate": {
-                  "nbt": "{Tags:[\"dnd.paleontologist\"]}"
-                }
-              }
+              "condition": "minecraft:reference",
+              "name": "potatopack:entity_group/villager_data/profession/fisherman"
             }
           ]
         }
@@ -72,12 +78,8 @@
       ],
       "conditions": [
         {
-          "condition": "minecraft:entity_properties",
-          "entity": "this",
-          "predicate": {
-            "type": "minecraft:villager",
-            "nbt": "{Tags:[\"dnd.paleontologist\"]}"
-          }
+          "condition": "minecraft:reference",
+          "name": "potatopack:entity_group/villager_data/profession/paleontologist"
         }
       ]
     },
@@ -96,14 +98,8 @@
       ],
       "conditions": [
         {
-          "condition": "minecraft:inverted",
-          "term": {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "nbt": "{Tags:[\"dnd.paleontologist\"]}"
-            }
-          }
+          "condition": "minecraft:reference",
+          "name": "potatopack:entity_group/villager_data/profession/fisherman"
         }
       ]
     }

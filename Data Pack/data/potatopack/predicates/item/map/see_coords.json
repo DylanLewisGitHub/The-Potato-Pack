@@ -1,0 +1,23 @@
+[
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:reference",
+        "name": "potatopack:item/map/mainhand"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "potatopack:item/map/offhand"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "potatopack:item/map/both_hands"
+      }
+    ]
+  },
+  {
+    "condition": "minecraft:reference",
+    "name": "potatopack:technical/config/see_map_coords"
+  }
+]

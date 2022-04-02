@@ -1,0 +1,3 @@
+summon zombified_piglin ~ ~ ~ {CustomName:'{"translate":"block.potatopack.tarnished_banner"}',NoAI:1b,Tags:[potatopack.block.tarnished_banner,potatopack.entity,smithed.entity],Invulnerable:1b,IsBaby:0b,Silent:1b,ArmorItems:[{},{},{},{id:egg,Count:1b,tag:{CustomModelData:840002}}],ActiveEffects:[{Id:14,Duration:10000000s}],DeathLootTable:"potatopack:items/tarnished_banner"}
+
+data modify entity @e[tag=potatopack.block.tarnished_banner,limit=1,sort=nearest] Rotation[0] set from entity @s Rotation[0]

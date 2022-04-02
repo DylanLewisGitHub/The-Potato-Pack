@@ -1,0 +1,23 @@
+[
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:reference",
+      "name": "potatopack:entity_group/villager_data/profession/jeweler"
+    }
+  },
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:reference",
+      "name": "potatopack:entity_group/villager_data/profession/paleontologist"
+    }
+  },
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "nbt": "{VillagerData:{profession:\"minecraft:fisherman\"}}"
+    }
+  }
+]

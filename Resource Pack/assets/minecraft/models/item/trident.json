@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/trident"
+  },
+  "overrides": [{
+    "predicate": {
+      "custom_model_data": 0
+    },
+    "model": "minecraft:item/trident"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840001
+	 },
+	 "model": "potatopack:item/empty"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840002
+	 },
+	 "model": "potatopack:item/spear"
+  }]
+}

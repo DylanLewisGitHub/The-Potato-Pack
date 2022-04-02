@@ -67,11 +67,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "minecraft:loot_table",
-          "weight": 1,
-          "name": "potatopack:chests/jungle_temple/building_blocks"
         }
       ]
     }

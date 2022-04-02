@@ -8,7 +8,7 @@
         {
           "type": "minecraft:loot_table",
           "weight": 5,
-          "name": "potatopack:items/meters/depth_meter"
+          "name": "potatopack:items/depth_meter"
         },
         {
           "type": "minecraft:item",

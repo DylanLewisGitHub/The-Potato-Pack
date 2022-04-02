@@ -4,9 +4,9 @@
     "type": "minecraft:score",
     "target": {
       "type": "minecraft:fixed",
-      "name": "seeMapCoords"
+      "name": "configSeeMapCoords"
     },
-    "score": "potatopack.config"
+    "score": "potatopack.math"
   },
   "range": 1
 }

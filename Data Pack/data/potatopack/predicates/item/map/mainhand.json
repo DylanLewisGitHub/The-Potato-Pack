@@ -1,0 +1,18 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:filled_map"
+        ]
+      },
+      "offhand": {
+        "count": {
+          "min": 1
+        }
+      }
+    }
+  }
+}

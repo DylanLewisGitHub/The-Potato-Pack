@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "minecraft:armor_stand",
-      "nbt": "{CustomModelData:840004}"
+      "nbt": "{CustomModelData:840003}"
     },
     "title": {
       "translate": "advancements.adventure.something_slimey.title"

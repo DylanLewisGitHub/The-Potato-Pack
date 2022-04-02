@@ -13,7 +13,7 @@
               "lore": [
                 {
                   "translate": "pack.potatopack",
-                  "color": "aqua",
+                  "color": "gold",
                   "italic": true
                 }
               ],
@@ -35,7 +35,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:840009,potatopack:{id:\"trident_prong\"}}"
+              "tag": "{CustomModelData:840010,potatopack:{id:\"trident_prong\"}}"
             }
           ]
         }

@@ -1,0 +1,1 @@
+execute as @s[type=evoker] run function potatopack:entity/evoker/spawning/loose

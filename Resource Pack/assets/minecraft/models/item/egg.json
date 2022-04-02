@@ -11,14 +11,14 @@
   },
   {
 	 "predicate":{
-		 "custom_model_data": 1
+		 "custom_model_data": 840001
 	 },
 	 "model": "potatopack:item/empty"
   },
   {
 	 "predicate":{
-		 "custom_model_data": 2
+		 "custom_model_data": 840002
 	 },
-	 "model": "potatopack:block/chieftain_banner"
+	 "model": "potatopack:block/tarnished_banner"
   }]
 }

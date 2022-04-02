@@ -8,44 +8,62 @@
   },
   {
 	 "predicate":{
-		 "custom_model_data": 1
+		 "custom_model_data": 840001
 	 },
 	 "model": "potatopack:item/empty"
   },
   {
 	 "predicate":{
-		 "custom_model_data": 2
+		 "custom_model_data": 840002
 	 },
 	 "model": "potatopack:item/depth_meter"
   },
   {
 	 "predicate":{
-		 "custom_model_data": 3
+		 "custom_model_data": 840003
 	 },
 	 "model": "potatopack:item/depth_meter_caves"
   },
   {
 	 "predicate":{
-		 "custom_model_data": 4
+		 "custom_model_data": 840004
 	 },
 	 "model": "potatopack:item/depth_meter_lava"
   },
   {
 	 "predicate":{
-		 "custom_model_data": 5
+		 "custom_model_data": 840005
 	 },
 	 "model": "potatopack:item/depth_meter_sky"
   },
   {
 	 "predicate":{
-		 "custom_model_data": 6
+		 "custom_model_data": 840006
 	 },
 	 "model": "potatopack:item/depth_meter_void"
   },
   {
 	 "predicate":{
-		 "custom_model_data": 7
+		 "custom_model_data": 840007
 	 },
 	 "model": "potatopack:item/hoglin_hide"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840008
+	 },
+	 "model": "potatopack:item/hoglin_tusk"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840009
+	 },
+	 "model": "potatopack:item/piglin_arm_guard"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840010
+	 },
+	 "model": "potatopack:item/trident_prong"
   }]
 }

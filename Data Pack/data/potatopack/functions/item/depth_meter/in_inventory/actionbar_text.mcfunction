@@ -1,0 +1,11 @@
+execute as @s[predicate=potatopack:technical/location_check/position_from_sea_level/several_blocks_above/any] run data modify storage abcl:storage temp.message set value {Message: '["",{"score":{"name":"posFromSeaLevel","objective":"potatopack.math"}},{"translate":"item.potatopack.depth_meter.blocks_above_sea_level"}]', Priority: 2, ClearImmediately: 1b}
+execute as @s[predicate=potatopack:technical/location_check/position_from_sea_level/block_above/any] run data modify storage abcl:storage temp.message set value {Message: '{"translate":"item.potatopack.depth_meter.block_above_sea_level"}', Priority: 2, ClearImmediately: 1b}
+execute as @s[predicate=potatopack:technical/location_check/position_from_sea_level/at_sea_level/any] run data modify storage abcl:storage temp.message set value {Message: '{"translate":"item.potatopack.depth_meter.at_sea_level"}', Priority: 2, ClearImmediately: 1b}
+execute as @s[predicate=potatopack:technical/location_check/position_from_sea_level/block_below/any] run data modify storage abcl:storage temp.message set value {Message: '{"translate":"item.potatopack.depth_meter.block_below_sea_level"}', Priority: 2, ClearImmediately: 1b}
+execute as @s[predicate=potatopack:technical/location_check/position_from_sea_level/several_blocks_below/any] run data modify storage abcl:storage temp.message set value {Message: '["",{"score":{"name":"posFromSeaLevel","objective":"potatopack.math"}},{"translate":"item.potatopack.depth_meter.blocks_below_sea_level"}]', Priority: 2, ClearImmediately: 1b}
+
+execute as @s[predicate=potatopack:technical/location_check/dimension/the_end] run data modify storage abcl:storage temp.message set value {Message: '{"translate":"potatopack.in_end"}', Priority: 2, ClearImmediately: 1b}
+execute as @s[predicate=potatopack:technical/location_check/the_void] run data modify storage abcl:storage temp.message set value {Message: '{"translate":"potatopack.in_void"}', Priority: 2, ClearImmediately: 1b}
+
+execute unless predicate potatopack:technical/config/toggle_depth_meter run data modify storage abcl:storage temp.message set value {Message: '["","Y:",{"score":{"name":"posY","objective":"potatopack.math"}}]', Priority: 2, ClearImmediately: 1b}
+execute as @s run function abcl:message/check

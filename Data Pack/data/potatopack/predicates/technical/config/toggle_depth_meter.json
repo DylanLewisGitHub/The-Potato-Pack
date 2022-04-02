@@ -4,9 +4,9 @@
     "type": "minecraft:score",
     "target": {
       "type": "minecraft:fixed",
-      "name": "toggleDepthMeter"
+      "name": "configToggleDepthMeter"
     },
-    "score": "potatopack.config"
+    "score": "potatopack.math"
   },
-  "range": 1
+  "range": 0
 }

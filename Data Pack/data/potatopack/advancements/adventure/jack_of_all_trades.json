@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "minecraft:flower_banner_pattern",
-      "nbt": "{CustomModelData:840011}"
+      "nbt": "{CustomModelData:840017}"
     },
     "title": {
       "translate": "advancements.adventure.jack_of_all_trades.title"
@@ -22,6 +22,14 @@
       "conditions": {
         "item": {
           "nbt": "{potatopack:{headwear:\"book_hat\"}}"
+        }
+      }
+    },
+    "butcher_headband": {
+      "trigger": "minecraft:villager_trade",
+      "conditions": {
+        "item": {
+          "nbt": "{potatopack:{headwear:\"butcher_headband\"}}"
         }
       }
     },
@@ -54,14 +62,6 @@
       "conditions": {
         "item": {
           "nbt": "{potatopack:{headwear:\"monocle\"}}"
-        }
-      }
-    },
-    "ribbon": {
-      "trigger": "minecraft:villager_trade",
-      "conditions": {
-        "item": {
-          "nbt": "{potatopack:{headwear:\"ribbon\"}}"
         }
       }
     },

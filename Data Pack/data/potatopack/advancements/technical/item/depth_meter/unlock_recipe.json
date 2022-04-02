@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "potatopack:depth_meter"
+      }
+    }
+  },
+  "rewards": {
+    "function": "potatopack:item/depth_meter/unlock_recipe"
+  }
+}

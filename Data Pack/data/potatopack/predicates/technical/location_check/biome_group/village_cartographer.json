@@ -1,0 +1,25 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/snowy_plains"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/savanna"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/taiga"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/plains"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/meadow"
+    }
+  ]
+}

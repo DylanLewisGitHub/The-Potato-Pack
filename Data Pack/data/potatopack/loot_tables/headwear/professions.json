@@ -14,6 +14,15 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
+          "name": "potatopack:items/headwear/butcher_headband"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
           "name": "potatopack:items/headwear/eye_patch"
         }
       ]
@@ -51,15 +60,6 @@
         {
           "type": "minecraft:loot_table",
           "name": "potatopack:items/headwear/paleontologist_hat"
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "name": "potatopack:items/headwear/ribbon"
         }
       ]
     },

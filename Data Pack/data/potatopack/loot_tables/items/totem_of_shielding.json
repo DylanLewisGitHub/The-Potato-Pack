@@ -13,7 +13,7 @@
               "lore": [
                 {
                   "translate": "pack.potatopack",
-                  "color": "aqua",
+                  "color": "gold",
                   "italic": true
                 }
               ],
@@ -35,7 +35,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:2,potatopack:{id:\"totem_of_shielding\"},EntityTag:{Pose:{Head:[0.0f,0.0f,0.0f],Body:[0.0f,0.0f,0.0f]},DisabledSlots:4144959,Invisible:1b,Small:1b,NoGravity:1b,Tags:[\"potatopack.block.totem_of_shielding\"],ArmorItems:[{},{},{},{id:\"minecraft:armor_stand\",Count:1b,tag:{CustomModelData:2}}]}}"
+              "tag": "{CustomModelData:840002,potatopack:{id:\"totem_of_shielding\"},EntityTag:{Pose:{Head:[0.0f,0.0f,0.0f],Body:[0.0f,0.0f,0.0f]},DisabledSlots:4144959,Invisible:1b,Small:1b,NoGravity:1b,Tags:[\"potatopack.block.totem_of_shielding\"],ArmorItems:[{},{},{},{id:\"minecraft:armor_stand\",Count:1b,tag:{CustomModelData:840002}}]}}"
             }
           ]
         }

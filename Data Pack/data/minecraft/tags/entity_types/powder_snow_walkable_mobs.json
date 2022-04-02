@@ -6,6 +6,8 @@
     "minecraft:silverfish",
     "minecraft:fox",
 	"minecraft:polar_bear",
-	"minecraft:stray"
+	"minecraft:stray",
+	"minecraft:wolf",
+	"minecraft:snow_golem"
   ]
 }

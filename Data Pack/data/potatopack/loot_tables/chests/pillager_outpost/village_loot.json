@@ -15,17 +15,8 @@
           "name": "minecraft:chests/village/village_toolsmith",
           "conditions": [
             {
-              "condition": "minecraft:alternative",
-              "terms": [
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:technical/location_check/biome/desert"
-                },
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:technical/location_check/biome/taiga"
-                }
-              ]
+              "condition": "minecraft:reference",
+              "name": "potatopack:technical/location_check/biome_group/village_toolsmith"
             }
           ]
         },
@@ -46,29 +37,8 @@
           "name": "minecraft:chests/village/village_tannery",
           "conditions": [
             {
-              "condition": "minecraft:alternative",
-              "terms": [
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:technical/location_check/biome/snowy_plains"
-                },
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:technical/location_check/biome/savanna"
-                },
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:technical/location_check/biome/taiga"
-                },
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:technical/location_check/biome/meadow"
-                },
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:technical/location_check/biome/plains"
-                }
-              ]
+              "condition": "minecraft:reference",
+              "name": "potatopack:technical/location_check/biome_group/village_tannery"
             }
           ]
         },
@@ -122,17 +92,8 @@
           "name": "minecraft:chests/village/village_plains_house",
           "conditions": [
             {
-              "condition": "minecraft:alternative",
-              "terms": [
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:technical/location_check/biome/meadow"
-                },
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:technical/location_check/biome/plains"
-                }
-              ]
+              "condition": "minecraft:reference",
+              "name": "potatopack:technical/location_check/biome_group/village_plains_house"
             }
           ]
         },
@@ -186,29 +147,8 @@
           "name": "minecraft:chests/village/village_cartographer",
           "conditions": [
             {
-              "condition": "minecraft:alternative",
-              "terms": [
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:technical/location_check/biome/plains"
-                },
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:technical/location_check/biome/meadow"
-                },
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:technical/location_check/biome/taiga"
-                },
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:technical/location_check/biome/savanna"
-                },
-                {
-                  "condition": "minecraft:reference",
-                  "name": "potatopack:technical/location_check/biome/snowy_plains"
-                }
-              ]
+              "condition": "minecraft:reference",
+              "name": "potatopack:technical/location_check/biome_group/village_cartographer"
             }
           ]
         },

@@ -1,0 +1,27 @@
+[
+  {
+    "condition": "minecraft:reference",
+    "name": "potatopack:entity_group/villager_data/level/2"
+  },
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:reference",
+        "name": "potatopack:entity_group/villager_data/type/desert"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "potatopack:entity_group/villager_data/type/savanna"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "potatopack:entity_group/villager_data/type/snow"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "potatopack:entity_group/villager_data/type/swamp"
+      }
+    ]
+  }
+]

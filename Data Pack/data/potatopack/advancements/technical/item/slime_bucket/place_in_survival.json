@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "player": {
+          "player": {
+            "gamemode": "survival"
+          }
+        },
+        "item": {
+          "nbt": "{potatopack:{id:\"slime_bucket\"}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "potatopack:item/slime_bucket/place/in_survival"
+  }
+}

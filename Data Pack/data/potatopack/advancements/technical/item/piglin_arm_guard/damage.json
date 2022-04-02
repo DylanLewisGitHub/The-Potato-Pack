@@ -1,19 +1,28 @@
 {
   "criteria": {
-    "requirement": {
+    "took_damage": {
       "trigger": "minecraft:entity_hurt_player",
       "conditions": {
-        "player": {
-          "equipment": {
-            "offhand": {
-              "nbt": "{potatopack:{id:\"piglin_arm_guard\"}}"
-            }
+        "player": [
+          {
+            "condition": "minecraft:reference",
+            "name": "potatopack:entity/has_piglin_arm_guard"
+          }
+        ],
+        "damage": {
+          "type": {
+            "is_fire": false,
+            "is_magic": false,
+            "is_lightning": false,
+            "bypasses_armor": false,
+            "bypasses_invulnerability": false,
+            "bypasses_magic": false
           }
         }
       }
     }
   },
   "rewards": {
-    "function": "potatopack:item/custom/piglin_arm_guard/damage"
+    "function": "potatopack:item/piglin_arm_guard/damage"
   }
 }

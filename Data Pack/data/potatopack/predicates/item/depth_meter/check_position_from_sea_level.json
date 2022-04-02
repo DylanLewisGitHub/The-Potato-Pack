@@ -1,0 +1,10 @@
+[
+  {
+    "condition": "minecraft:reference",
+    "name": "potatopack:technical/config/toggle_depth_meter"
+  },
+  {
+    "condition": "minecraft:reference",
+    "name": "potatopack:technical/location_check/position_from_sea_level/several_blocks_away/any"
+  }
+]

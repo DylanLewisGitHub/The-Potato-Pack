@@ -1,0 +1,209 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/badlands"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/bamboo_jungle"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/beach"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/birch_forest"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/cold_ocean"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/dark_forest"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/deep_cold_ocean"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/deep_dark"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/deep_frozen_ocean"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/deep_lukewarm_ocean"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/deep_ocean"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/desert"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/dripstone_caves"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/eroded_badlands"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/flower_forest"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/forest"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/frozen_ocean"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/frozen_peaks"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/frozen_river"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/grove"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/ice_spikes"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/jagged_peaks"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/jungle"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/lukewarm_ocean"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/lush_caves"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/meadow"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/mushroom_fields"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/ocean"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/old_growth_birch_forest"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/old_growth_pine_taiga"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/old_growth_spruce_taiga"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/plains"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/river"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/savanna"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/savanna_plateau"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/snowy_beach"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/snowy_plains"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/snowy_slopes"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/snowy_taiga"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/sparse_jungle"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/stony_peaks"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/stony_shore"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/sunflower_plains"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/swamp"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/taiga"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/warm_ocean"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/windswept_forest"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/windswept_gravelly_hills"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/windswept_hills"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/windswept_savanna"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/wooded_badlands"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:reference",
+      "name": "potatopack:technical/location_check/biome/the_void"
+    }
+  },
+  {
+    "condition": "minecraft:value_check",
+    "value": {
+      "type": "minecraft:score",
+      "target": {
+        "type": "minecraft:fixed",
+        "name": "posY"
+      },
+      "score": "potatopack.math"
+    },
+    "range": 61
+  },
+  {
+    "condition": "minecraft:reference",
+    "name": "potatopack:technical/location_check/dimension/overworld"
+  }
+]

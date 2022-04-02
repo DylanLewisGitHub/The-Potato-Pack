@@ -1,0 +1,2 @@
+execute as @s[predicate=potatopack:entity/villager/add_trades/level_2] run function potatopack:entity/villager/add_trades/level_2
+execute as @s[predicate=potatopack:entity/villager/add_trades/level_5] run function potatopack:entity/villager/add_trades/level_5

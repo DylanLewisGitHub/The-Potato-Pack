@@ -1,0 +1,46 @@
+[
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "offhand": {
+            "count": {
+              "min": 1
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "condition": "minecraft:value_check",
+    "value": {
+      "type": "minecraft:score",
+      "target": {
+        "type": "minecraft:fixed",
+        "name": "rotX"
+      },
+      "score": "potatopack.math"
+    },
+    "range": {
+      "min": 45,
+      "max": 90
+    }
+  },
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "mainhand": {
+          "items": [
+            "minecraft:filled_map"
+          ]
+        }
+      }
+    }
+  }
+]

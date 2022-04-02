@@ -1,0 +1,1 @@
+execute as @s[type=zombie] run function potatopack:entity/zombie/spawning/avoid_player

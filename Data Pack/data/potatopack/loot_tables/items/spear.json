@@ -13,7 +13,7 @@
               "lore": [
                 {
                   "translate": "pack.potatopack",
-                  "color": "aqua",
+                  "color": "gold",
                   "italic": true
                 }
               ],
@@ -35,7 +35,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:2,potatopack:{id:\"spear\"}}"
+              "tag": "{CustomModelData:840002,potatopack:{id:\"spear\"}}"
             }
           ]
         }

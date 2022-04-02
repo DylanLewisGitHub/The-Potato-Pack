@@ -1,0 +1,2 @@
+tellraw @s {"translate":"potatopack.welcome_message","with":[{"translate":"pack.potatopack","color":"gold"},{"translate":"potatopack.discord_server","underlined":true,"color":"#5165F6","clickEvent":{"action":"open_url","value":"https://discord.gg/n6sCVTvpyt"}}],"color":"white"}
+tellraw @s[predicate=potatopack:technical/config/see_warnings] ["","\n",{"translate":"potatopack.warning","with":[{"translate":"potatopack.welcome_message.warning","with":[{"translate":"potatopack.slime_chunk_calculator","underlined":true,"color":"green"}],"color":"red"}],"color":"red"}]
