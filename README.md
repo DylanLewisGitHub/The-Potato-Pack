@@ -7,7 +7,7 @@ Learn about everything the Potato Pack has to offer through the [Wiki](https://g
 ### Stable Releases
 
 The latest releases of The Potato Pack are published to the [Data Pack Center](https://datapackcenter.com/projects/the-potato-pack.326/), [Planet Minecraft](https://www.planetminecraft.com/data-pack/the-potato-pack-lots-of-content-lots-of-potatoes/), [CurseForge](https://www.curseforge.com/minecraft/customization/the-potato-pack), and
-[GitHub release] pages. Releases are considered to be
+[GitHub release](https://github.com/DylanLewisGitHub/The-Potato-Pack/releases) pages. Releases are considered to be
 **suitable for general use**, but they are not guaranteed to be free of bugs and other issues.
 
 Usually, releases will be made available on GitHub slightly sooner than other locations.
