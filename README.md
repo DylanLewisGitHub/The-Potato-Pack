@@ -36,7 +36,7 @@ bug-fixing, compatibility, performance, and finishing any unimplemented features
 
 ## Community
 
-I have a Discord server for all of my projects. By joining, you can...
+I have a [Discord server](https://discord.gg/n6sCVTvpyt) for all of my projects. By joining, you can...
 
 * Get technical support with all of my projects
 * Be notified of the latest developments as they happen
@@ -46,4 +46,4 @@ I have a Discord server for all of my projects. By joining, you can...
 ## License
 
 The Potato Pack is licensed under GNU GPLv3, a free and open-source license. For more information, please see the
-license file.
+[license file](https://github.com/DylanLewisGitHub/The-Potato-Pack/blob/main/LICENSE).
