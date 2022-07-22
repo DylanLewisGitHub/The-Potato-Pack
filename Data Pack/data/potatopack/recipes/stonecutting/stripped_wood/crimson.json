@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:stripped_wood",
+  "ingredient": {
+    "item": "minecraft:crimson_hyphae"
+  },
+  "result": "minecraft:stripped_crimson_hyphae",
+  "count": 1
+}

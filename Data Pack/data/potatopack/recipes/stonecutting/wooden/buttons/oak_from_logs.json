@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:wooden_buttons",
+  "ingredient": {
+    "tag": "minecraft:oak_logs"
+  },
+  "result": "minecraft:oak_button",
+  "count": 4
+}

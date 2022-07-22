@@ -5,7 +5,7 @@
     "conditions": [
       {
         "condition": "minecraft:reference",
-        "name": "potatopack:item/depth_meter/modify_visual/ground"
+        "name": "potatopack:item/depth_meter/modify_visual/cave"
       }
     ]
   },
@@ -15,7 +15,7 @@
     "conditions": [
       {
         "condition": "minecraft:reference",
-        "name": "potatopack:item/depth_meter/modify_visual/cave"
+        "name": "potatopack:item/depth_meter/modify_visual/ground"
       }
     ]
   },
@@ -53,21 +53,19 @@
     "function": "minecraft:set_lore",
     "entity": "this",
     "lore": [
-      [
-        {
-          "score": {
-            "name": "posFromSeaLevel",
-            "objective": "potatopack.math"
-          },
-          "color": "gray",
-          "italic": false
-        },
-        {
-          "translate": "item.potatopack.depth_meter.blocks_above_sea_level",
-          "color": "gray",
-          "italic": false
-        }
-      ]
+      {
+        "translate": "item.potatopack.depth_meter.blocks_above_sea_level",
+        "with": [
+          {
+            "score": {
+              "name": "posFromSeaLevel",
+              "objective": "potatopack.math"
+            }
+          }
+        ],
+        "color": "gray",
+        "italic": false
+      }
     ],
     "replace": true,
     "conditions": [
@@ -148,21 +146,19 @@
     "function": "minecraft:set_lore",
     "entity": "this",
     "lore": [
-      [
-        {
-          "score": {
-            "name": "posFromSeaLevel",
-            "objective": "potatopack.math"
-          },
-          "color": "gray",
-          "italic": false
-        },
-        {
-          "translate": "item.potatopack.depth_meter.blocks_below_sea_level",
-          "color": "gray",
-          "italic": false
-        }
-      ]
+      {
+        "translate": "item.potatopack.depth_meter.blocks_below_sea_level",
+        "with": [
+          {
+            "score": {
+              "name": "posFromSeaLevel",
+              "objective": "potatopack.math"
+            }
+          }
+        ],
+        "color": "gray",
+        "italic": false
+      }
     ],
     "replace": true,
     "conditions": [
@@ -222,19 +218,19 @@
     "function": "minecraft:set_lore",
     "entity": "this",
     "lore": [
-      [
-        {
-          "text": "Y:",
-          "color": "gray",
-          "italic": false
-        },
-        {
-          "score": {
-            "name": "posY",
-            "objective": "potatopack.math"
+      {
+        "translate": "item.potatopack.depth_meter.y_position",
+        "with": [
+          {
+            "score": {
+              "name": "posY",
+              "objective": "potatopack.math"
+            }
           }
-        }
-      ]
+        ],
+        "color": "gray",
+        "italic": false
+      }
     ],
     "replace": true,
     "conditions": [

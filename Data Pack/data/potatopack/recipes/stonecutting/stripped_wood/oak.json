@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:stripped_wood",
+  "ingredient": {
+    "item": "minecraft:oak_wood"
+  },
+  "result": "minecraft:stripped_oak_wood",
+  "count": 1
+}

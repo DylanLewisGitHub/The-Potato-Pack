@@ -1,2 +1,0 @@
-data modify storage abcl:storage temp.message set value {Message: '["",{"translate":"potatopack.warning","color":"red"},{"translate":"block.potatopack.tarnished_banner.cannot_place","color":"red"}]', Priority: 2, ClearImmediately: 1b}
-execute as @s run function abcl:message/check

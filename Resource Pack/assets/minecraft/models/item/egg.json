@@ -17,8 +17,38 @@
   },
   {
 	 "predicate":{
-		 "custom_model_data": 840002
+		 "custom_model_data": 840003
 	 },
-	 "model": "potatopack:block/tarnished_banner"
+	 "model": "potatopack:entity/wraith/channeled"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840004
+	 },
+	 "model": "potatopack:entity/wraith/channeling"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840005
+	 },
+	 "model": "potatopack:entity/wraith/chasing"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840006
+	 },
+	 "model": "potatopack:entity/wraith/idle"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840007
+	 },
+	 "model": "potatopack:entity/wraith/moving"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840008
+	 },
+	 "model": "potatopack:entity/wraith/puking"
   }]
 }

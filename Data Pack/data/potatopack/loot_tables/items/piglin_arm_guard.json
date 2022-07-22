@@ -5,7 +5,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:command_block",
+          "name": "minecraft:debug_stick",
           "functions": [
             {
               "function": "minecraft:set_name",
@@ -18,7 +18,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:840009,potatopack:{id:\"piglin_arm_guard\",Durability:45b},AttributeModifiers:[{AttributeName:\"generic.max_health\",Name:\"generic.max_health\",Amount:20,Operation:0,UUID:[I;935625346,-1780072308,-1180712347,1083260616],Slot:\"offhand\"}]}"
+              "tag": "{CustomModelData:840002,potatopack:{id:\"piglin_arm_guard\",Durability:[64b,64b]}}"
             },
             {
               "function": "minecraft:set_lore",

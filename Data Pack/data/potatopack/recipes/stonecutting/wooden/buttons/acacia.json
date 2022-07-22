@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:wooden_buttons",
+  "ingredient": {
+    "item": "minecraft:acacia_planks"
+  },
+  "result": "minecraft:acacia_button",
+  "count": 1
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:stripped_logs",
+  "ingredient": {
+    "item": "minecraft:crimson_stem"
+  },
+  "result": "minecraft:stripped_crimson_stem",
+  "count": 1
+}

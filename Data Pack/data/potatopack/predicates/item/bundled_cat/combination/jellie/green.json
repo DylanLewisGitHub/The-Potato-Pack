@@ -1,0 +1,10 @@
+[
+  {
+    "condition": "minecraft:reference",
+    "name": "potatopack:item/bundled_cat/stored_data/cat_variant/jellie"
+  },
+  {
+    "condition": "minecraft:reference",
+    "name": "potatopack:item/bundled_cat/stored_data/bundle_color/green"
+  }
+]

@@ -234,9 +234,9 @@
       "bonus_rolls": 0,
       "entries": [
         {
-          "type": "minecraft:item",
+          "type": "minecraft:loot_table",
           "weight": 10,
-          "name": "minecraft:bone",
+          "name": "potatopack:items/bone_fragment",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -299,5 +299,17 @@
         }
       ]
     }
-  ]
+  ],
+  "__smithed__":{
+        "rules":[
+            {
+                "type":"smithed:merge",
+                "target":"pools",
+                "source":{
+                    "type":"smithed:reference",
+                    "path":"pools"
+                }
+            }
+        ]
+    }
 }

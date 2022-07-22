@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:wooden_planks",
+  "ingredient": {
+    "tag": "minecraft:acacia_logs"
+  },
+  "result": "minecraft:acacia_planks",
+  "count": 4
+}

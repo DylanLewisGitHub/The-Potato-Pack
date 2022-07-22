@@ -1,0 +1,3 @@
+advancement revoke @s only potatopack:technical/item/bundled_cat/place_in_survival/red
+
+loot give @s loot tcc:items/dyed_bundle/red

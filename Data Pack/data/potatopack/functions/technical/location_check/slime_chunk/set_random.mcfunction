@@ -1,4 +1,4 @@
-# Add results from Slime Chunk Calculator to the math
+# Add results from Seed Conversion Tool to the math
 scoreboard players operation randomHigh potatopack.math = seedHigh potatopack.math
 scoreboard players operation randomLow potatopack.math = seedLow potatopack.math
 

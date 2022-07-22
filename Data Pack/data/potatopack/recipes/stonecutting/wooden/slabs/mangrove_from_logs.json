@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:wooden_slabs",
+  "ingredient": {
+    "tag": "minecraft:mangrove_logs"
+  },
+  "result": "minecraft:mangrove_slab",
+  "count": 8
+}

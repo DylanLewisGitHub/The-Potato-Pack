@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:wooden_stairs",
+  "ingredient": {
+    "tag": "minecraft:spruce_logs"
+  },
+  "result": "minecraft:spruce_stairs",
+  "count": 4
+}

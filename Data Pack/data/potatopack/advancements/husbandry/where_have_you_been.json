@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:string"
+    },
+    "title": {
+      "translate": "advancements.husbandry.where_have_you_been.title"
+    },
+    "description": {
+      "translate": "advancements.husbandry.where_have_you_been.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:husbandry/tame_an_animal",
+  "criteria": {
+    "pick_up_gift": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "nbt": "{potatopack:{CatGift:1b}}"
+          }
+        ]
+      }
+    }
+  }
+}

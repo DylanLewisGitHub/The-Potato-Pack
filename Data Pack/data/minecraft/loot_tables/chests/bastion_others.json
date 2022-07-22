@@ -114,11 +114,6 @@
       "rolls": 2,
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "weight": 1,
-          "name": "potatopack:items/tarnished_banner"
-        },
-        {
           "type": "minecraft:item",
           "weight": 2,
           "name": "minecraft:iron_sword",
@@ -397,5 +392,17 @@
         }
       ]
     }
-  ]
+  ],
+  "__smithed__":{
+        "rules":[
+            {
+                "type":"smithed:merge",
+                "target":"pools",
+                "source":{
+                    "type":"smithed:reference",
+                    "path":"pools"
+                }
+            }
+        ]
+    }
 }

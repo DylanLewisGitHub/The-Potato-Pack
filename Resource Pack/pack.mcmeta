@@ -1,6 +1,6 @@
 ﻿{
   "pack": {
-    "pack_format": 8,
+    "pack_format": 9,
     "description": [
       {
         "text": "by Dylan The Spud",
@@ -10,7 +10,7 @@
         "text": "\n"
       },
       {
-        "text": "v0.2 Beta 1",
+        "text": "v0.2 Beta 2",
         "color": "gray"
       }
     ]

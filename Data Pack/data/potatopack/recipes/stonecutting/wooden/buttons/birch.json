@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:wooden_buttons",
+  "ingredient": {
+    "item": "minecraft:birch_planks"
+  },
+  "result": "minecraft:birch_button",
+  "count": 1
+}

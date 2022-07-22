@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:stripped_logs",
+  "ingredient": {
+    "item": "minecraft:jungle_log"
+  },
+  "result": "minecraft:stripped_jungle_log",
+  "count": 1
+}

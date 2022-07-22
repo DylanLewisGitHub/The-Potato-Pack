@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:wooden_planks",
+  "ingredient": {
+    "tag": "minecraft:jungle_logs"
+  },
+  "result": "minecraft:jungle_planks",
+  "count": 4
+}

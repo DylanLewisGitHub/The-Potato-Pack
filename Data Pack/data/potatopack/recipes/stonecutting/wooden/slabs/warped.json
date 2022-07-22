@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:wooden_slabs",
+  "ingredient": {
+    "item": "minecraft:warped_planks"
+  },
+  "result": "minecraft:warped_slab",
+  "count": 2
+}

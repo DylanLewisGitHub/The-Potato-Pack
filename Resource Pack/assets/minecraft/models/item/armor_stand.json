@@ -19,24 +19,1134 @@
 	 "predicate":{
 		 "custom_model_data": 840002
 	 },
-	 "model": "potatopack:block/totem_of_shielding"
+	 "model": "potatopack:item/bundled_cat/all_black/black"
   },
   {
 	 "predicate":{
 		 "custom_model_data": 840003
 	 },
-	 "model": "potatopack:item/slime_bucket"
+	 "model": "potatopack:item/bundled_cat/all_black/blue"
   },
   {
 	 "predicate":{
 		 "custom_model_data": 840004
 	 },
-	 "model": "potatopack:item/slime_bucket_excited"
+	 "model": "potatopack:item/bundled_cat/all_black/brown"
   },
   {
 	 "predicate":{
 		 "custom_model_data": 840005
 	 },
-	 "model": "potatopack:item/tarnished_banner"
+	 "model": "potatopack:item/bundled_cat/all_black/cyan"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840006
+	 },
+	 "model": "potatopack:item/bundled_cat/all_black/gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840007
+	 },
+	 "model": "potatopack:item/bundled_cat/all_black/green"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840008
+	 },
+	 "model": "potatopack:item/bundled_cat/all_black/light_blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840009
+	 },
+	 "model": "potatopack:item/bundled_cat/all_black/light_gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840010
+	 },
+	 "model": "potatopack:item/bundled_cat/all_black/lime"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840011
+	 },
+	 "model": "potatopack:item/bundled_cat/all_black/magenta"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840012
+	 },
+	 "model": "potatopack:item/bundled_cat/all_black/normal"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840013
+	 },
+	 "model": "potatopack:item/bundled_cat/all_black/orange"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840014
+	 },
+	 "model": "potatopack:item/bundled_cat/all_black/pink"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840015
+	 },
+	 "model": "potatopack:item/bundled_cat/all_black/purple"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840016
+	 },
+	 "model": "potatopack:item/bundled_cat/all_black/red"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840017
+	 },
+	 "model": "potatopack:item/bundled_cat/all_black/white"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840018
+	 },
+	 "model": "potatopack:item/bundled_cat/all_black/yellow"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840019
+	 },
+	 "model": "potatopack:item/bundled_cat/black/black"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840020
+	 },
+	 "model": "potatopack:item/bundled_cat/black/blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840021
+	 },
+	 "model": "potatopack:item/bundled_cat/black/brown"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840022
+	 },
+	 "model": "potatopack:item/bundled_cat/black/cyan"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840023
+	 },
+	 "model": "potatopack:item/bundled_cat/black/gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840024
+	 },
+	 "model": "potatopack:item/bundled_cat/black/green"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840025
+	 },
+	 "model": "potatopack:item/bundled_cat/black/light_blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840026
+	 },
+	 "model": "potatopack:item/bundled_cat/black/light_gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840027
+	 },
+	 "model": "potatopack:item/bundled_cat/black/lime"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840028
+	 },
+	 "model": "potatopack:item/bundled_cat/black/magenta"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840029
+	 },
+	 "model": "potatopack:item/bundled_cat/black/normal"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840030
+	 },
+	 "model": "potatopack:item/bundled_cat/black/orange"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840031
+	 },
+	 "model": "potatopack:item/bundled_cat/black/pink"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840032
+	 },
+	 "model": "potatopack:item/bundled_cat/black/purple"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840033
+	 },
+	 "model": "potatopack:item/bundled_cat/black/red"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840034
+	 },
+	 "model": "potatopack:item/bundled_cat/black/white"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840035
+	 },
+	 "model": "potatopack:item/bundled_cat/black/yellow"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840036
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/black"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840037
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840038
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/brown"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840039
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/cyan"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840040
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840041
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/green"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840042
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/light_blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840043
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/light_gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840044
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/lime"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840045
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/magenta"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840046
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/normal"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840047
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/orange"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840048
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/pink"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840049
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/purple"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840050
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/red"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840051
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/white"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840052
+	 },
+	 "model": "potatopack:item/bundled_cat/british_shorthair/yellow"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840053
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/black"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840054
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840055
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/brown"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840056
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/cyan"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840057
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840058
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/green"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840059
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/light_blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840060
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/light_gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840061
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/lime"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840062
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/magenta"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840063
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/normal"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840064
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/orange"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840065
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/pink"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840066
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/purple"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840067
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/red"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840068
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/white"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840069
+	 },
+	 "model": "potatopack:item/bundled_cat/calico/yellow"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840070
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/black"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840071
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840072
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/brown"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840073
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/cyan"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840074
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840075
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/green"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840076
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/light_blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840077
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/light_gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840078
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/lime"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840079
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/magenta"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840080
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/normal"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840081
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/orange"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840082
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/pink"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840083
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/purple"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840084
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/red"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840085
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/white"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840086
+	 },
+	 "model": "potatopack:item/bundled_cat/jellie/yellow"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840087
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/black"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840088
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840089
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/brown"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840090
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/cyan"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840091
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840092
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/green"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840093
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/light_blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840094
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/light_gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840095
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/lime"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840096
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/magenta"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840097
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/normal"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840098
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/orange"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840099
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/pink"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840100
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/purple"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840101
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/red"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840102
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/white"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840103
+	 },
+	 "model": "potatopack:item/bundled_cat/persian/yellow"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840104
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/black"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840105
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840106
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/brown"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840107
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/cyan"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840108
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840109
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/green"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840110
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/light_blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840111
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/light_gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840112
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/lime"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840113
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/magenta"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840114
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/normal"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840115
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/orange"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840116
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/pink"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840117
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/purple"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840118
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/red"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840119
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/white"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840120
+	 },
+	 "model": "potatopack:item/bundled_cat/ragdoll/yellow"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840121
+	 },
+	 "model": "potatopack:item/bundled_cat/red/black"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840122
+	 },
+	 "model": "potatopack:item/bundled_cat/red/blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840123
+	 },
+	 "model": "potatopack:item/bundled_cat/red/brown"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840124
+	 },
+	 "model": "potatopack:item/bundled_cat/red/cyan"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840125
+	 },
+	 "model": "potatopack:item/bundled_cat/red/gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840126
+	 },
+	 "model": "potatopack:item/bundled_cat/red/green"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840127
+	 },
+	 "model": "potatopack:item/bundled_cat/red/light_blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840128
+	 },
+	 "model": "potatopack:item/bundled_cat/red/light_gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840129
+	 },
+	 "model": "potatopack:item/bundled_cat/red/lime"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840130
+	 },
+	 "model": "potatopack:item/bundled_cat/red/magenta"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840131
+	 },
+	 "model": "potatopack:item/bundled_cat/red/normal"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840132
+	 },
+	 "model": "potatopack:item/bundled_cat/red/orange"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840133
+	 },
+	 "model": "potatopack:item/bundled_cat/red/pink"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840134
+	 },
+	 "model": "potatopack:item/bundled_cat/red/purple"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840135
+	 },
+	 "model": "potatopack:item/bundled_cat/red/red"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840136
+	 },
+	 "model": "potatopack:item/bundled_cat/red/white"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840137
+	 },
+	 "model": "potatopack:item/bundled_cat/red/yellow"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840138
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/black"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840139
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840140
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/brown"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840141
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/cyan"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840142
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840142
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/green"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840143
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/light_blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840144
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/light_gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840145
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/lime"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840146
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/magenta"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840147
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/normal"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840148
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/orange"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840149
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/pink"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840150
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/purple"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840151
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/red"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840152
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/white"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840153
+	 },
+	 "model": "potatopack:item/bundled_cat/siamese/yellow"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840154
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/black"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840155
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840156
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/brown"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840157
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/cyan"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840158
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840159
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/green"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840160
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/light_blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840161
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/light_gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840162
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/lime"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840163
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/magenta"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840164
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/normal"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840165
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/orange"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840166
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/pink"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840167
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/purple"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840168
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/red"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840169
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/white"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840170
+	 },
+	 "model": "potatopack:item/bundled_cat/tabby/yellow"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840171
+	 },
+	 "model": "potatopack:item/bundled_cat/white/black"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840172
+	 },
+	 "model": "potatopack:item/bundled_cat/white/blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840173
+	 },
+	 "model": "potatopack:item/bundled_cat/white/brown"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840174
+	 },
+	 "model": "potatopack:item/bundled_cat/white/cyan"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840175
+	 },
+	 "model": "potatopack:item/bundled_cat/white/gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840176
+	 },
+	 "model": "potatopack:item/bundled_cat/white/green"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840177
+	 },
+	 "model": "potatopack:item/bundled_cat/white/light_blue"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840178
+	 },
+	 "model": "potatopack:item/bundled_cat/white/light_gray"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840179
+	 },
+	 "model": "potatopack:item/bundled_cat/white/lime"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840180
+	 },
+	 "model": "potatopack:item/bundled_cat/white/magenta"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840181
+	 },
+	 "model": "potatopack:item/bundled_cat/white/normal"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840182
+	 },
+	 "model": "potatopack:item/bundled_cat/white/orange"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840183
+	 },
+	 "model": "potatopack:item/bundled_cat/white/pink"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840184
+	 },
+	 "model": "potatopack:item/bundled_cat/white/purple"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840185
+	 },
+	 "model": "potatopack:item/bundled_cat/white/red"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840186
+	 },
+	 "model": "potatopack:item/bundled_cat/white/white"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840187
+	 },
+	 "model": "potatopack:item/bundled_cat/white/yellow"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840188
+	 },
+	 "model": "potatopack:item/slime_bucket"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 840189
+	 },
+	 "model": "potatopack:item/slime_bucket_excited"
   }]
 }

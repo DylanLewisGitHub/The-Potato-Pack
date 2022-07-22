@@ -1,7 +1,7 @@
 [
   {
     "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:840004}",
+    "tag": "{CustomModelData:840189}",
     "conditions": [
       {
         "condition": "minecraft:reference",
@@ -11,7 +11,7 @@
   },
   {
     "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:840003}",
+    "tag": "{CustomModelData:840188}",
     "conditions": [
       {
         "condition": "minecraft:inverted",
@@ -72,7 +72,7 @@
             "translate": "item.potatopack.slime_bucket.warning",
             "with": [
               {
-                "translate": "potatopack.slime_chunk_calculator",
+                "translate": "potatopack.seed_conversion_tool",
                 "color": "green",
                 "italic": false,
                 "underlined": true

@@ -1,14 +1,58 @@
-{
-  "function": "minecraft:copy_nbt",
-  "source": {
-    "type": "minecraft:storage",
-    "source": "potatopack:storage"
+[
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "translate": "potatopack.durability",
+        "with": [
+          {
+            "score": {
+              "name": "durability",
+              "objective": "potatopack.math"
+            }
+          },
+          {
+            "score": {
+              "name": "durabilityMax",
+              "objective": "potatopack.math"
+            }
+          }
+        ],
+        "color": "gray",
+        "italic": false
+      }
+    ],
+    "replace": true
   },
-  "ops": [
-    {
-      "source": "NBT.Item.tag.potatopack.Durability",
-      "target": "potatopack.Durability",
-      "op": "replace"
-    }
-  ]
-}
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "translate": "pack.potatopack",
+        "color": "gold"
+      }
+    ],
+    "conditions": [
+      {
+        "condition": "minecraft:reference",
+        "name": "potatopack:technical/config/see_pack_name"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:copy_nbt",
+    "source": {
+      "type": "minecraft:storage",
+      "source": "potatopack:storage"
+    },
+    "ops": [
+      {
+        "source": "NBT.Item.tag.potatopack.Durability",
+        "target": "potatopack.Durability[0]",
+        "op": "replace"
+      }
+    ]
+  }
+]

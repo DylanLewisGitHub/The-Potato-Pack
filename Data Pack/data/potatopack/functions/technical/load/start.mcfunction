@@ -1,5 +1,10 @@
 # Make scoreboards
+scoreboard objectives add potatopack.entity.player.max_health dummy
 scoreboard objectives add potatopack.math dummy
+scoreboard objectives add potatopack.math2 dummy
+scoreboard objectives add potatopack.timer dummy
+scoreboard objectives add potatopack.timer2 dummy
+scoreboard objectives add potatopack.enchantment.leeching.cooldown dummy
 
 # Set configurations
 function potatopack:technical/config
@@ -39,6 +44,5 @@ scoreboard players set #2^30 potatopack.math 1073741824
 scoreboard players set #2^31 potatopack.math -2147483648
 
 # Finish
-gamerule reducedDebugInfo true
 playsound minecraft:entity.arrow.hit_player master @a[gamemode=!survival] ~ ~ ~ 2 1 1
 execute as @a[predicate=potatopack:technical/config/see_welcome_message] run function potatopack:technical/load/welcome_message

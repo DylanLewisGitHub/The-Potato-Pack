@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "potatopack:item/depth_meter/base",
+	"layer1": "potatopack:item/depth_meter/ground"
+  }
+}

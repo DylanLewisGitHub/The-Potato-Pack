@@ -101,5 +101,17 @@
         }
       ]
     }
-  ]
+  ],
+  "__smithed__":{
+        "rules":[
+            {
+                "type":"smithed:merge",
+                "target":"pools",
+                "source":{
+                    "type":"smithed:reference",
+                    "path":"pools"
+                }
+            }
+        ]
+    }
 }

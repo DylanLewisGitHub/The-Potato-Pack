@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:stripped_logs",
+  "ingredient": {
+    "item": "minecraft:mangrove_log"
+  },
+  "result": "minecraft:stripped_mangrove_log",
+  "count": 1
+}

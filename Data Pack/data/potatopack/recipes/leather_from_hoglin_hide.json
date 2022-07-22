@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "potatopack:leather",
+  "ingredients": [
+    {
+      "item": "minecraft:chain_command_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:leather",
+    "count": 3
+  }
+}

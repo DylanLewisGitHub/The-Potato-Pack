@@ -117,23 +117,17 @@
       "predicate": {
         "custom_model_data": 840019
       },
-      "model": "potatopack:headwear/wildfire_helmet"
+      "model": "potatopack:headwear/winter_hat"
     },
     {
       "predicate": {
         "custom_model_data": 840020
       },
-      "model": "potatopack:headwear/winter_hat"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 840021
-      },
       "model": "potatopack:headwear/witch_hat"
     },
     {
       "predicate": {
-        "custom_model_data": 840022
+        "custom_model_data": 840021
       },
       "model": "potatopack:headwear/wreath"
     }

@@ -8,3 +8,5 @@ execute as @s[nbt={Item:{tag:{potatopack:{id:"depth_meter"}}}}] run function pot
 
 execute as @s[nbt={Item:{tag:{potatopack:{id:"slime_bucket"}}}}] run function potatopack:item/slime_bucket/item_entity
 tag @s[tag=potatopack.item.slime_bucket.enter_slime_chunk,nbt=!{Item:{tag:{potatopack:{id:"slime_bucket"}}}}] remove potatopack.item.slime_bucket.enter_slime_chunk
+
+execute as @s[nbt={Item:{id:"minecraft:bundle"}}] if entity @e[type=#potatopack:cats,distance=..1] run function potatopack:item/bundled_cat/create/start

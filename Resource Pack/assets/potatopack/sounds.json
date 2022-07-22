@@ -57,5 +57,65 @@
 	  "potatopack:entity/forming_ice/form3"
     ],
     "subtitle": "subtitle.potatopack.entity.forming_ice.form"
+  },
+  "entity.wraith.attack": {
+    "sounds": [
+      "potatopack:entity/wraith/attack1"
+    ],
+    "subtitle": "subtitle.potatopack.entity.wraith.attack"
+  },
+  "entity.wraith.death": {
+    "sounds": [
+      "potatopack:entity/wraith/death1",
+	  "potatopack:entity/wraith/death2"
+    ],
+    "subtitle": "subtitle.potatopack.entity.wraith.death"
+  },
+  "entity.wraith.fly": {
+    "sounds": [
+      "potatopack:entity/wraith/fly1",
+	  "potatopack:entity/wraith/fly2",
+	  "potatopack:entity/wraith/fly3"
+    ],
+    "subtitle": "subtitle.potatopack.entity.wraith.fly"
+  },
+  "entity.wraith.hurt": {
+    "sounds": [
+      "potatopack:entity/wraith/hurt1",
+	  "potatopack:entity/wraith/hurt2",
+	  "potatopack:entity/wraith/hurt3"
+    ],
+    "subtitle": "subtitle.potatopack.entity.wraith.hurt3"
+  },
+  "entity.wraith.idle": {
+    "sounds": [
+      "potatopack:entity/wraith/idle1",
+	  "potatopack:entity/wraith/idle2",
+	  "potatopack:entity/wraith/idle3",
+	  "potatopack:entity/wraith/idle4",
+	  "potatopack:entity/wraith/idle5",
+	  "potatopack:entity/wraith/idle6"
+    ],
+    "subtitle": "subtitle.potatopack.entity.wraith.idle"
+  },
+  "entity.wraith.puke": {
+    "sounds": [
+      "potatopack:entity/wraith/puke1"
+    ],
+    "subtitle": "subtitle.potatopack.entity.wraith.puke"
+  },
+  "entity.wraith.teleport": {
+    "sounds": [
+      "potatopack:entity/wraith/teleport1",
+	  "potatopack:entity/wraith/teleport2"
+    ],
+    "subtitle": "subtitle.potatopack.entity.wraith.teleport"
+  },
+  "enchant.leeching.leech": {
+    "sounds": [
+      "potatopack:enchant/leeching/leech1",
+	  "potatopack:enchant/leeching/leech2"
+    ],
+    "subtitle": "subtitle.potatopack.enchant.leeching.leech"
   }
 }

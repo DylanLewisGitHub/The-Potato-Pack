@@ -5,7 +5,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:command_block",
+          "name": "minecraft:chain_command_block",
           "functions": [
             {
               "function": "minecraft:set_lore",
@@ -35,7 +35,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:840007,potatopack:{id:\"hoglin_hide\"}}"
+              "tag": "{potatopack:{id:\"hoglin_hide\"}}"
             }
           ]
         }

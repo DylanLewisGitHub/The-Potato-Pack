@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:wooden_stairs",
+  "ingredient": {
+    "tag": "minecraft:jungle_logs"
+  },
+  "result": "minecraft:jungle_stairs",
+  "count": 4
+}

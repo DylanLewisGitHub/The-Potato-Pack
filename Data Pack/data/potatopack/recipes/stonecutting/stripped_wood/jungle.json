@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:stripped_wood",
+  "ingredient": {
+    "item": "minecraft:jungle_wood"
+  },
+  "result": "minecraft:stripped_jungle_wood",
+  "count": 1
+}

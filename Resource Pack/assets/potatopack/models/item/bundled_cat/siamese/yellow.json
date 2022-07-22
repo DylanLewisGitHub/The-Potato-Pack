@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tcc:item/dyed_bundle/yellow_cat",
+	"layer1": "potatopack:item/bundled_cat/siamese"
+  }
+}

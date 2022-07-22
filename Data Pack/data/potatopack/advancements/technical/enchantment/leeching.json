@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "mainhand": {
+              "nbt": "{potatopack:{Enchantments:[{id:\"leeching\"}]}}"
+            }
+          }
+        },
+        "entity": {
+          "type": "#potatopack:mob"
+        },
+        "killing_blow": {
+          "is_explosion": false,
+          "is_fire": false,
+          "is_magic": false,
+          "is_projectile": false,
+          "is_lightning": false,
+          "bypasses_armor": false
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "potatopack:enchantment/leeching/try"
+  }
+}

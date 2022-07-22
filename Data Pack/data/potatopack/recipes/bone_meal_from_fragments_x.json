@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bonemeal",
+  "pattern": [
+    "B B",
+    " B ",
+    "B B"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:repeating_command_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:bone_meal"
+  }
+}

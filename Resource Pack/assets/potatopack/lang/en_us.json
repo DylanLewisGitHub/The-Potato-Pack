@@ -1,25 +1,68 @@
 {
   "pack.potatopack": "The Potato Pack",
   "pack.collaboration": "%s + %s",
+  "potatopack.durability": "%s / %s",
   "potatopack.warning": "WARNING: %s",
   
-  "potatopack.slime_chunk_calculator": "Slime Chunk Calculator",
+  "potatopack.seed_conversion_tool": "Seed Conversion Tool",
   "potatopack.discord_server": "Discord server",
+  "potatopack.cat_morning_gift": "A gift...",
+  "potatopack.invalid_max_health": "You inputted an invalid value for potatopack.entity.player.max_health! Valid values are integers ranging from 1000 to 1024000!",
+  
+  "potatopack.cat_variant": "Cat Variant: %s",
+  "potatopack.cat_variant.all_black": "All Black",
+  "potatopack.cat_variant.black": "Black",
+  "potatopack.cat_variant.british_shorthair": "British Shorthair",
+  "potatopack.cat_variant.calico": "Calico",
+  "potatopack.cat_variant.jellie": "Jellie",
+  "potatopack.cat_variant.persian": "Persian",
+  "potatopack.cat_variant.ragdoll": "Ragdoll",
+  "potatopack.cat_variant.red": "Red",
+  "potatopack.cat_variant.siamese": "Siamese",
+  "potatopack.cat_variant.tabby": "Tabby",
+  "potatopack.cat_variant.white": "White",
+  
+  "potatopack.bundle_color": "Bundle Color: %s",
+  "potatopack.bundle_color.black": "Black",
+  "potatopack.bundle_color.blue": "Blue",
+  "potatopack.bundle_color.brown": "Brown",
+  "potatopack.bundle_color.cyan": "Cyan",
+  "potatopack.bundle_color.gray": "Gray",
+  "potatopack.bundle_color.green": "Green",
+  "potatopack.bundle_color.light_blue": "Light Blue",
+  "potatopack.bundle_color.light_gray": "Light Gray",
+  "potatopack.bundle_color.lime": "Lime",
+  "potatopack.bundle_color.magenta": "Magenta",
+  "potatopack.bundle_color.normal": "Normal",
+  "potatopack.bundle_color.orange": "Orange",
+  "potatopack.bundle_color.pink": "Pink",
+  "potatopack.bundle_color.purple": "Purple",
+  "potatopack.bundle_color.red": "Red",
+  "potatopack.bundle_color.white": "White",
+  "potatopack.bundle_color.yellow": "Yellow",
   
   "potatopack.welcome_message": "%s has successfully loaded! Be sure to join the %s if you haven't already.",
   "potatopack.welcome_message.warning": "Remember to use the %s so the Slime Chunk Check can function properly!",
   
+  "advancements.adventure.cow_tipper.title": "Cow Tipper",
+  "advancements.adventure.cow_tipper.description": "Harvest some leather",
   "advancements.adventure.jack_of_all_trades.title": "Jack of all Trades",
   "advancements.adventure.jack_of_all_trades.description": "Trade for every profession's headwear",
-  "advancements.adventure.something_slimey.title": "Something Slimey",
-  "advancements.adventure.something_slimey.description": "Uncover a Slime Chunk with a Bucket of Slime",
+  "advancements.adventure.something_slimy.title": "Something Slimy",
+  "advancements.adventure.something_slimy.description": "Uncover a Slime Chunk with a Bucket of Slime",
   
-  "block.potatopack.tarnished_banner": "Tarnished Banner",
-  "block.potatopack.tarnished_banner.cannot_place": "You cannot place Tarnished Banners on Peaceful difficulty!",
+  "advancements.husbandry.where_have_you_been.title": "Where Have You Been?",
+  "advancements.husbandry.where_have_you_been.description": "Recieve a gift from a tamed cat in the morning",
+  "advancements.husbandry.cat_out_of_the_bundle.title": "Cat out of the Bundle",
+  "advancements.husbandry.cat_out_of_the_bundle.description": "Release a bundled cat",
   
-  "block.potatopack.totem_of_shielding": "Totem of Shielding",
+  "block.potatopack.bone_mill": "Bone Mill",
+  "block.potatopack.crystalarium": "Crystalarium",
+  "block.potatopack.geode_crusher": "Geode Crusher",
+  "block.potatopack.seed_maker": "Seed Maker",
+  "block.potatopack.slime_incubator": "Slime Incubator",
   
-  "entity.potatopack.chunk_marker": "Chunk Marker",
+  "entity.potatopack.wraith": "Wraith",
   
   "filled_map.located_desert_pyramid": "Located Desert Pyramid",
   "filled_map.located_igloo": "Located Igloo",
@@ -39,14 +82,19 @@
   "filled_map.super_secret_headquarters": "Super Secret Headquarters",
   "filled_map.super_secret_hideout": "Super Secret Hideout",
   
-  "item.potatopack.crystallised_honey": "Crystallised Honey",
+  "item.potatopack.bone_fragment": "Bone Fragment",
+  
+  "item.potatopack.bundled_cat": "Bundled Cat",
+  
+  "item.potatopack.crystallized_honey": "Crystallized Honey",
   
   "item.potatopack.depth_meter": "Depth Meter",
-  "item.potatopack.depth_meter.blocks_above_sea_level": " blocks above sea level",
+  "item.potatopack.depth_meter.blocks_above_sea_level": "%s blocks above sea level",
   "item.potatopack.depth_meter.block_above_sea_level": "1 block above sea level",
   "item.potatopack.depth_meter.at_sea_level": "You are at sea level",
   "item.potatopack.depth_meter.block_below_sea_level": "1 block below sea level",
-  "item.potatopack.depth_meter.blocks_below_sea_level": " blocks below sea level",
+  "item.potatopack.depth_meter.blocks_below_sea_level": "%s blocks below sea level",
+  "item.potatopack.depth_meter.y_position": "Y: %s",
   
   "item.potatopack.headwear.arch_illager_crown": "Arch-Illager Crown",
   "item.potatopack.headwear.book_hat": "Book Hat",
@@ -64,14 +112,12 @@
   "item.potatopack.headwear.shepherd_cap": "Shepherd Cap",
   "item.potatopack.headwear.straw_hat": "Straw Hat",
   "item.potatopack.headwear.visor": "Visor",
-  "item.potatopack.headwear.wildfire_helmet": "Wildfire Helmet",
   "item.potatopack.headwear.winter_hat": "Winter Hat",
   "item.potatopack.headwear.witch_hat": "Witch Hat",
   "item.potatopack.headwear.wreath": "Wreath",
   
   "item.potatopack.hoglin_hide": "Hoglin Hide",
   "item.potatopack.hoglin_tusk": "Hoglin Tusk",
-  "item.potatopack.wildfire_shield": "Wildfire Shield",
   "item.potatopack.peat": "Peat",
   "item.potatopack.piglin_arm_guard": "Piglin Arm Guard",
   
@@ -83,13 +129,21 @@
   
   "item.potatopack.spear": "Spear",
   
-  "item.potatopack.tarnished_banner.warning": "Placed banners will despawn on Peaceful difficulty!",
-  
   "item.potatopack.trident_prong": "Trident Prong",
+  "item.potatopack.watering_can": "Watering Can",
   
   "potatopack.in_nether": "You are in the Nether",
   "potatopack.in_end": "You are in the End",
   "potatopack.in_void": "You are in the Void",
+  
+  "subtitle.potatopack.entity.wraith.attack": "Wraith Attacks",
+  "subtitle.potatopack.entity.wraith.death": "Wraith Dies",
+  "subtitle.potatopack.entity.wraith.fly": "Wraith Flies",
+  "subtitle.potatopack.entity.wraith.hurt": "Wraith Hurts",
+  "subtitle.potatopack.entity.wraith.idle": "Wraith Whispers",
+  "subtitle.potatopack.entity.wraith.puke": "Wraith Pukes",
+  "subtitle.potatopack.entity.wraith.teleport": "Wraith Teleports",
+  "subtitle.potatopack.enchant.leeching.leech": "Leeches Health",
   
    "block.minecraft.moss_carpet": "Moss Blanket",
    "item.minecraft.knowledge_book": "Craft Item"

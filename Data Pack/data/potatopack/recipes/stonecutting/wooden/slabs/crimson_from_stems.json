@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:wooden_slabs",
+  "ingredient": {
+    "tag": "minecraft:crimson_stems"
+  },
+  "result": "minecraft:crimson_slab",
+  "count": 8
+}

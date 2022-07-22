@@ -9,6 +9,9 @@
           "name": "minecraft:flint",
           "functions": [
             {
+              "function": "minecraft:explosion_decay"
+            },
+            {
               "function": "minecraft:set_count",
               "count": {
                 "min": 0,
@@ -42,5 +45,17 @@
         }
       ]
     }
-  ]
+  ],
+  "__smithed__":{
+        "rules":[
+            {
+                "type":"smithed:merge",
+                "target":"pools",
+                "source":{
+                    "type":"smithed:reference",
+                    "path":"pools[0]"
+                }
+            }
+        ]
+    }
 }

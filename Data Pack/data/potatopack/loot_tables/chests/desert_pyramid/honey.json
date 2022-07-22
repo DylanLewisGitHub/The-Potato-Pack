@@ -29,7 +29,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "name": "potatopack:items/crystallised_honey"
+          "name": "potatopack:items/crystallized_honey"
         }
       ]
     }

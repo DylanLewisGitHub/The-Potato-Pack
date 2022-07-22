@@ -1,0 +1,8 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "#potatopack:chestable_mobs",
+    "nbt": "{ChestedHorse:1b}"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:bundle"
+    },
+    "title": {
+      "translate": "advancements.husbandry.cat_out_of_the_bundle.title"
+    },
+    "description": {
+      "translate": "advancements.husbandry.cat_out_of_the_bundle.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:husbandry/tame_an_animal",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "item": {
+          "nbt": "{potatopack:{id:\"bundled_cat\"}}"
+        }
+      }
+    }
+  }
+}

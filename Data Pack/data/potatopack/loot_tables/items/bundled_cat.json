@@ -1,0 +1,2538 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:armor_stand",
+          "functions": [
+		    {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "translate": "item.potatopack.bundled_cat",
+				"italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{potatopack:{id:\"bundled_cat\"},EntityTag:{Tags:[\"potatopack.item.bundled_cat.place\",\"potatopack.entity\",\"smithed.entity\"],ArmorItems:[{},{},{},{id:\"minecraft:egg\",Count:1b}]}}"
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840002,potatopack:{Variant:all_black,Color:black}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/black"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840003,potatopack:{Variant:all_black,Color:blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840004,potatopack:{Variant:all_black,Color:brown}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/brown"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840005,potatopack:{Variant:all_black,Color:cyan}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/cyan"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840006,potatopack:{Variant:all_black,Color:gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840007,potatopack:{Variant:all_black,Color:green}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/green"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840008,potatopack:{Variant:all_black,Color:light_blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/light_blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840009,potatopack:{Variant:all_black,Color:gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/light_gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840010,potatopack:{Variant:all_black,Color:lime}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/lime"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840011,potatopack:{Variant:all_black,Color:magenta}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/magenta"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840012,potatopack:{Variant:all_black,Color:normal}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/normal"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840013,potatopack:{Variant:all_black,Color:orange}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/orange"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840014,potatopack:{Variant:all_black,Color:pink}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/pink"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840015,potatopack:{Variant:all_black,Color:purple}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/purple"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840016,potatopack:{Variant:all_black,Color:red}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/red"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840017,potatopack:{Variant:all_black,Color:white}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/white"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840018,potatopack:{Variant:all_black,Color:yellow}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/all_black/yellow"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840019,potatopack:{Variant:black,Color:black}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/black"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840020,potatopack:{Variant:black,Color:blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840021,potatopack:{Variant:black,Color:brown}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/brown"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840022,potatopack:{Variant:black,Color:cyan}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/cyan"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840023,potatopack:{Variant:black,Color:gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840024,potatopack:{Variant:black,Color:green}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/green"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840025,potatopack:{Variant:black,Color:light_blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/light_blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840026,potatopack:{Variant:black,Color:light_gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/light_gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840027,potatopack:{Variant:black,Color:lime}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/lime"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840028,potatopack:{Variant:black,Color:magenta}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/magenta"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840029,potatopack:{Variant:black,Color:normal}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/normal"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840030,potatopack:{Variant:black,Color:orange}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/orange"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840031,potatopack:{Variant:black,Color:pink}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/pink"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840032,potatopack:{Variant:black,Color:purple}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/purple"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840033,potatopack:{Variant:black,Color:red}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/red"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840034,potatopack:{Variant:black,Color:white}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/white"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840035,potatopack:{Variant:black,Color:yellow}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/black/yellow"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840036,potatopack:{Variant:british_shorthair,Color:black}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/black"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840037,potatopack:{Variant:british_shorthair,Color:blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840038,potatopack:{Variant:british_shorthair,Color:brown}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/brown"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840039,potatopack:{Variant:british_shorthair,Color:cyan}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/cyan"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840040,potatopack:{Variant:british_shorthair,Color:gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840041,potatopack:{Variant:british_shorthair,Color:green}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/green"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840042,potatopack:{Variant:british_shorthair,Color:light_blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/light_blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840043,potatopack:{Variant:british_shorthair,Color:light_gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/light_gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840044,potatopack:{Variant:british_shorthair,Color:lime}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/lime"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840045,potatopack:{Variant:british_shorthair,Color:magenta}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/magenta"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840046,potatopack:{Variant:british_shorthair,Color:normal}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/normal"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840047,potatopack:{Variant:british_shorthair,Color:orange}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/orange"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840048,potatopack:{Variant:british_shorthair,Color:pink}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/pink"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840049,potatopack:{Variant:british_shorthair,Color:purple}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/purple"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840050,potatopack:{Variant:british_shorthair,Color:red}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/red"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840051,potatopack:{Variant:british_shorthair,Color:white}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/white"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840052,potatopack:{Variant:british_shorthair,Color:yellow}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/british_shorthair/yellow"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840053,potatopack:{Variant:calico,Color:black}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/black"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840054,potatopack:{Variant:calico,Color:blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840055,potatopack:{Variant:calico,Color:brown}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/brown"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840056,potatopack:{Variant:calico,Color:cyan}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/cyan"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840057,potatopack:{Variant:calico,Color:gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840058,potatopack:{Variant:calico,Color:green}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/green"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840059,potatopack:{Variant:calico,Color:light_blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/light_blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840060,potatopack:{Variant:calico,Color:light_gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/light_gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840061,potatopack:{Variant:calico,Color:lime}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/lime"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840062,potatopack:{Variant:calico,Color:magenta}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/magenta"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840063,potatopack:{Variant:calico,Color:normal}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/normal"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840064,potatopack:{Variant:calico,Color:orange}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/orange"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840065,potatopack:{Variant:calico,Color:pink}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/pink"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840066,potatopack:{Variant:calico,Color:purple}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/purple"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840067,potatopack:{Variant:calico,Color:red}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/red"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840068,potatopack:{Variant:calico,Color:white}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/white"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840069,potatopack:{Variant:calico,Color:yellow}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/calico/yellow"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840070,potatopack:{Variant:jellie,Color:black}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/black"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840071,potatopack:{Variant:jellie,Color:blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840072,potatopack:{Variant:jellie,Color:brown}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/brown"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840073,potatopack:{Variant:jellie,Color:cyan}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/cyan"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840074,potatopack:{Variant:jellie,Color:gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840075,potatopack:{Variant:jellie,Color:green}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/green"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840076,potatopack:{Variant:jellie,Color:light_blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/light_blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840077,potatopack:{Variant:jellie,Color:light_gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/light_gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840078,potatopack:{Variant:jellie,Color:lime}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/lime"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840079,potatopack:{Variant:jellie,Color:magenta}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/magenta"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840080,potatopack:{Variant:jellie,Color:normal}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/normal"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840081,potatopack:{Variant:jellie,Color:orange}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/orange"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840082,potatopack:{Variant:jellie,Color:pink}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/pink"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840083,potatopack:{Variant:jellie,Color:purple}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/purple"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840084,potatopack:{Variant:jellie,Color:red}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/red"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840085,potatopack:{Variant:jellie,Color:white}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/white"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840086,potatopack:{Variant:jellie,Color:yellow}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/jellie/yellow"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840087,potatopack:{Variant:persian,Color:black}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/black"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840088,potatopack:{Variant:persian,Color:blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840089,potatopack:{Variant:persian,Color:brown}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/brown"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840090,potatopack:{Variant:persian,Color:cyan}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/cyan"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840091,potatopack:{Variant:persian,Color:gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840092,potatopack:{Variant:persian,Color:green}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/green"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840093,potatopack:{Variant:persian,Color:light_blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/light_blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840094,potatopack:{Variant:persian,Color:light_gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/light_gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840095,potatopack:{Variant:persian,Color:lime}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/lime"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840096,potatopack:{Variant:persian,Color:magenta}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/magenta"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840097,potatopack:{Variant:persian,Color:normal}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/normal"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840098,potatopack:{Variant:persian,Color:orange}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/orange"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840099,potatopack:{Variant:persian,Color:pink}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/pink"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840100,potatopack:{Variant:persian,Color:purple}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/purple"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840101,potatopack:{Variant:persian,Color:red}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/red"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840101,potatopack:{Variant:persian,Color:white}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/white"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840102,potatopack:{Variant:persian,Color:yellow}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/persian/yellow"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840103,potatopack:{Variant:ragdoll,Color:black}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/black"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840104,potatopack:{Variant:ragdoll,Color:blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840105,potatopack:{Variant:ragdoll,Color:brown}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/brown"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840106,potatopack:{Variant:ragdoll,Color:cyan}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/cyan"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840107,potatopack:{Variant:ragdoll,Color:gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840108,potatopack:{Variant:ragdoll,Color:green}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/green"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840109,potatopack:{Variant:ragdoll,Color:light_blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/light_blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840110,potatopack:{Variant:ragdoll,Color:light_gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/light_gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840111,potatopack:{Variant:ragdoll,Color:lime}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/lime"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840112,potatopack:{Variant:ragdoll,Color:magenta}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/magenta"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840113,potatopack:{Variant:ragdoll,Color:normal}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/normal"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840114,potatopack:{Variant:ragdoll,Color:orange}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/orange"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840115,potatopack:{Variant:ragdoll,Color:pink}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/pink"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840116,potatopack:{Variant:ragdoll,Color:purple}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/purple"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840117,potatopack:{Variant:ragdoll,Color:red}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/red"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840118,potatopack:{Variant:ragdoll,Color:white}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/white"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840119,potatopack:{Variant:ragdoll,Color:yellow}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/ragdoll/yellow"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840120,potatopack:{Variant:red,Color:black}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/black"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840121,potatopack:{Variant:red,Color:blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840122,potatopack:{Variant:red,Color:brown}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/brown"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840123,potatopack:{Variant:red,Color:cyan}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/cyan"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840124,potatopack:{Variant:red,Color:gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840125,potatopack:{Variant:red,Color:green}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/green"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840126,potatopack:{Variant:red,Color:light_blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/light_blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840127,potatopack:{Variant:red,Color:light_gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/light_gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840128,potatopack:{Variant:red,Color:lime}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/lime"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840129,potatopack:{Variant:red,Color:magenta}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/magenta"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840130,potatopack:{Variant:red,Color:normal}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/normal"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840131,potatopack:{Variant:red,Color:orange}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/orange"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840132,potatopack:{Variant:red,Color:pink}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/pink"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840133,potatopack:{Variant:red,Color:purple}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/purple"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840134,potatopack:{Variant:red,Color:red}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/red"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840135,potatopack:{Variant:red,Color:white}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/white"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840136,potatopack:{Variant:red,Color:yellow}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/red/yellow"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840137,potatopack:{Variant:siamese,Color:black}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/black"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840138,potatopack:{Variant:siamese,Color:blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840139,potatopack:{Variant:siamese,Color:brown}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/brown"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840140,potatopack:{Variant:siamese,Color:cyan}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/cyan"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840141,potatopack:{Variant:siamese,Color:gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840142,potatopack:{Variant:siamese,Color:green}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/green"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840143,potatopack:{Variant:siamese,Color:light_blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/light_blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840144,potatopack:{Variant:siamese,Color:light_gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/light_gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840145,potatopack:{Variant:siamese,Color:lime}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/lime"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840146,potatopack:{Variant:siamese,Color:magenta}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/magenta"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840147,potatopack:{Variant:siamese,Color:normal}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/normal"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840148,potatopack:{Variant:siamese,Color:orange}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/orange"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840149,potatopack:{Variant:siamese,Color:pink}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/pink"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840150,potatopack:{Variant:siamese,Color:purple}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/purple"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840151,potatopack:{Variant:siamese,Color:red}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/red"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840152,potatopack:{Variant:siamese,Color:white}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/white"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840153,potatopack:{Variant:siamese,Color:yellow}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/siamese/yellow"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840154,potatopack:{Variant:tabby,Color:black}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/black"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840155,potatopack:{Variant:tabby,Color:blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840156,potatopack:{Variant:tabby,Color:brown}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/brown"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840157,potatopack:{Variant:tabby,Color:cyan}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/cyan"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840158,potatopack:{Variant:tabby,Color:gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840159,potatopack:{Variant:tabby,Color:green}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/green"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840160,potatopack:{Variant:tabby,Color:light_blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/light_blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840161,potatopack:{Variant:tabby,Color:light_gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/light_gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840162,potatopack:{Variant:tabby,Color:lime}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/lime"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840163,potatopack:{Variant:tabby,Color:magenta}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/magenta"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840164,potatopack:{Variant:tabby,Color:normal}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/normal"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840165,potatopack:{Variant:tabby,Color:orange}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/orange"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840166,potatopack:{Variant:tabby,Color:pink}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/pink"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840167,potatopack:{Variant:tabby,Color:purple}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/purple"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840168,potatopack:{Variant:tabby,Color:red}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/red"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840169,potatopack:{Variant:tabby,Color:white}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/white"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840170,potatopack:{Variant:tabby,Color:yellow}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/tabby/yellow"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840171,potatopack:{Variant:white,Color:black}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/black"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840172,potatopack:{Variant:white,Color:blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840173,potatopack:{Variant:white,Color:brown}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/brown"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840174,potatopack:{Variant:white,Color:cyan}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/cyan"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840175,potatopack:{Variant:white,Color:gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840176,potatopack:{Variant:white,Color:green}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/green"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840177,potatopack:{Variant:white,Color:light_blue}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/light_blue"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840178,potatopack:{Variant:white,Color:light_gray}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/light_gray"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840179,potatopack:{Variant:white,Color:lime}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/lime"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840180,potatopack:{Variant:white,Color:magenta}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/magenta"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840181,potatopack:{Variant:white,Color:normal}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/normal"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840182,potatopack:{Variant:white,Color:orange}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/orange"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840183,potatopack:{Variant:white,Color:pink}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/pink"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840184,potatopack:{Variant:white,Color:purple}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/purple"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840185,potatopack:{Variant:white,Color:red}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/red"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840186,potatopack:{Variant:white,Color:white}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/white"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:840187,potatopack:{Variant:white,Color:yellow}}",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/combination/white/yellow"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.cat_variant",
+                  "with": [
+                    {
+                      "translate": "potatopack.cat_variant.all_black"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/cat_variant/all_black"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.cat_variant",
+                  "with": [
+                    {
+                      "translate": "potatopack.cat_variant.black"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/cat_variant/black"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.cat_variant",
+                  "with": [
+                    {
+                      "translate": "potatopack.cat_variant.british_shorthair"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/cat_variant/british_shorthair"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.cat_variant",
+                  "with": [
+                    {
+                      "translate": "potatopack.cat_variant.calico"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/cat_variant/calico"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.cat_variant",
+                  "with": [
+                    {
+                      "translate": "potatopack.cat_variant.jellie"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/cat_variant/jellie"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.cat_variant",
+                  "with": [
+                    {
+                      "translate": "potatopack.cat_variant.persian"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/cat_variant/persian"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.cat_variant",
+                  "with": [
+                    {
+                      "translate": "potatopack.cat_variant.ragdoll"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/cat_variant/ragdoll"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.cat_variant",
+                  "with": [
+                    {
+                      "translate": "potatopack.cat_variant.red"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/cat_variant/red"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.cat_variant",
+                  "with": [
+                    {
+                      "translate": "potatopack.cat_variant.siamese"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/cat_variant/siamese"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.cat_variant",
+                  "with": [
+                    {
+                      "translate": "potatopack.cat_variant.tabby"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/cat_variant/tabby"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.cat_variant",
+                  "with": [
+                    {
+                      "translate": "potatopack.cat_variant.white"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/cat_variant/white"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.black"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/black"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.blue"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/blue"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.brown"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/brown"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.cyan"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/cyan"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.gray"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/gray"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.green"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/green"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.light_blue"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/light_blue"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.light_gray"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/light_gray"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.lime"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/lime"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.magenta"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/magenta"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.normal"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/normal"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.orange"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/orange"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.pink"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/pink"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.purple"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/purple"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.red"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/red"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.white"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/white"
+                }
+              ]
+            },
+			{
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "potatopack.bundle_color",
+                  "with": [
+                    {
+                      "translate": "potatopack.bundle_color.yellow"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "potatopack:item/bundled_cat/stored_data/bundle_color/yellow"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "pack.potatopack",
+                  "color": "gold",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:copy_nbt",
+              "source": {
+                "type": "minecraft:storage",
+                "source": "potatopack:storage"
+              },
+              "ops": [
+                {
+                  "source": "NBT.Entity",
+                  "target": "EntityTag.ArmorItems[3].tag",
+                  "op": "merge"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "player": {
+          "player": {
+            "gamemode": "survival"
+          }
+        },
+        "item": {
+          "nbt": "{potatopack:{id:\"bundled_cat\",Color:magenta}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "potatopack:item/bundled_cat/place/in_survival/magenta"
+  }
+}

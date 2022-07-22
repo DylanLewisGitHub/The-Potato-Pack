@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "potatopack:wooden_slabs",
+  "ingredient": {
+    "tag": "minecraft:oak_logs"
+  },
+  "result": "minecraft:oak_slab",
+  "count": 8
+}
