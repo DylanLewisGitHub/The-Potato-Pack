@@ -18,7 +18,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:840188,potatopack:{id:\"slime_bucket\"},EntityTag:{Tags:[\"potatopack.item.slime_bucket.place_slime\",\"potatopack.entity\",\"smithed.entity\"],ArmorItems:[{},{},{},{id:\"minecraft:egg\",Count:1b}]}}"
+              "tag": "{CustomModelData:840188,potatopack:{id:\"slime_bucket\"},epa:{gauntletItem:1b},EntityTag:{Tags:[\"potatopack.item.slime_bucket.place_slime\",\"potatopack.entity\",\"smithed.entity\"],ArmorItems:[{},{},{},{id:\"minecraft:egg\",Count:1b}]}}"
             },
             {
               "function": "minecraft:copy_nbt",
